@@ -1,0 +1,3536 @@
+{
+  "lastUpdated": "2026-02-17T09:54:20.413Z",
+  "playlists": {
+    "Radio Supernova ID": [
+      {
+        "uri": "spotify:episode:2CSFma1WDWjQPIdniAh3ea",
+        "id": "2CSFma1WDWjQPIdniAh3ea",
+        "name": "Liner Id Con Payoff 2",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      },
+      {
+        "uri": "spotify:episode:6KMpjY2g8ogfn90ACe3bfu",
+        "id": "6KMpjY2g8ogfn90ACe3bfu",
+        "name": "Liner Id Con Payoff 01",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      },
+      {
+        "uri": "spotify:episode:0kwQ06qiKsTOzKwPoNwljt",
+        "id": "0kwQ06qiKsTOzKwPoNwljt",
+        "name": "Liner Id Supernova 03",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      },
+      {
+        "uri": "spotify:episode:25xSZd3xopOGfTw5wU8Jw9",
+        "id": "25xSZd3xopOGfTw5wU8Jw9",
+        "name": "Liner Id Supernova 02",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      },
+      {
+        "uri": "spotify:episode:52LVr87DNzej8ZjVI3ScHw",
+        "id": "52LVr87DNzej8ZjVI3ScHw",
+        "name": "Liner Id supernova 01",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      },
+      {
+        "uri": "spotify:episode:3Y2ZKm0xlUzAt4Qhg8xxXU",
+        "id": "3Y2ZKm0xlUzAt4Qhg8xxXU",
+        "name": "RADIO SUPERNOVA ID SHORT",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      },
+      {
+        "uri": "spotify:episode:2Qmu1h91ROmVjXCX6xErqi",
+        "id": "2Qmu1h91ROmVjXCX6xErqi",
+        "name": "Station Id Supernova",
+        "artist": null,
+        "artistId": "1mydNIHbqJBkkQmepWBFgY"
+      }
+    ],
+    "Best 50": [
+      {
+        "uri": "spotify:track:2IfE8FhnPPEBSS4rL1qhBb",
+        "id": "2IfE8FhnPPEBSS4rL1qhBb",
+        "name": "Heartbreak Hotel",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2",
+        "id": "2QfiRTz5Yc8DdShCxG1tB2",
+        "name": "Johnny B. Goode",
+        "artist": "Chuck Berry",
+        "artistId": "293zczrfYafIItmnmM3coR"
+      },
+      {
+        "uri": "spotify:track:6h4rAPuTPv0iAI1NaF2SRL",
+        "id": "6h4rAPuTPv0iAI1NaF2SRL",
+        "name": "What'd I Say",
+        "artist": "Ray Charles",
+        "artistId": "1eYhYunlNJlDoQhtYBvPsi"
+      },
+      {
+        "uri": "spotify:track:2iXcvnD3d1gfLBum0cE5Eg",
+        "id": "2iXcvnD3d1gfLBum0cE5Eg",
+        "name": "Tutti Frutti",
+        "artist": "Little Richard",
+        "artistId": "4xls23Ye9WR9yy3yYMpAMm"
+      },
+      {
+        "uri": "spotify:track:50RwvvEKX5Q7AZt8FTAwIF",
+        "id": "50RwvvEKX5Q7AZt8FTAwIF",
+        "name": "That'll Be The Day",
+        "artist": "Buddy Holly",
+        "artistId": "3wYyutjgII8LJVVOLrGI0D"
+      },
+      {
+        "uri": "spotify:track:0GTZHkb3zbX9EypcM6f7BL",
+        "id": "0GTZHkb3zbX9EypcM6f7BL",
+        "name": "Peggy Sue",
+        "artist": "Buddy Holly",
+        "artistId": "3wYyutjgII8LJVVOLrGI0D"
+      },
+      {
+        "uri": "spotify:track:06PdA0DLgF4BfAeUNZAbFG",
+        "id": "06PdA0DLgF4BfAeUNZAbFG",
+        "name": "Blueberry Hill",
+        "artist": "Fats Domino",
+        "artistId": "09C0xjtosNAIXP36wTnWxd"
+      },
+      {
+        "uri": "spotify:track:5jw1zzcYFivmuJK52JrnMK",
+        "id": "5jw1zzcYFivmuJK52JrnMK",
+        "name": "Great Balls Of Fire",
+        "artist": "Jerry Lee Lewis",
+        "artistId": "2zyz0VJqrDXeFDIyrfVXSo"
+      },
+      {
+        "uri": "spotify:track:4gphxUgq0JSFv2BCLhNDiE",
+        "id": "4gphxUgq0JSFv2BCLhNDiE",
+        "name": "Jailhouse Rock",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:7dblNGnRXEBrVJunazs2U5",
+        "id": "7dblNGnRXEBrVJunazs2U5",
+        "name": "All I Have to Do Is Dream",
+        "artist": "The Everly Brothers",
+        "artistId": "4ACplpEqD6JIVgKrafauzs"
+      },
+      {
+        "uri": "spotify:track:6oRHRkQigTzJ3KwpO3XOV6",
+        "id": "6oRHRkQigTzJ3KwpO3XOV6",
+        "name": "Bye Bye Love",
+        "artist": "The Everly Brothers",
+        "artistId": "4ACplpEqD6JIVgKrafauzs"
+      },
+      {
+        "uri": "spotify:track:2gNjmvuQiEd2z9SqyYi8HH",
+        "id": "2gNjmvuQiEd2z9SqyYi8HH",
+        "name": "Summertime",
+        "artist": "Ella Fitzgerald",
+        "artistId": "5V0MlUE1Bft0mbLlND7FJz"
+      },
+      {
+        "uri": "spotify:track:3E5ndyOfO6vFDEIE42HA8o",
+        "id": "3E5ndyOfO6vFDEIE42HA8o",
+        "name": "Mack the Knife",
+        "artist": "Bobby Darin",
+        "artistId": "0EodhzA6yW1bIdD5B4tcmJ"
+      },
+      {
+        "uri": "spotify:track:3lAun9V0YdTlCSIEXPvfsY",
+        "id": "3lAun9V0YdTlCSIEXPvfsY",
+        "name": "La Vie en rose",
+        "artist": "Édith Piaf",
+        "artistId": "1WPcVNert9hn7mHsPKDn7j"
+      },
+      {
+        "uri": "spotify:track:5whvZmQ6Apf4TGpBeNcpBx",
+        "id": "5whvZmQ6Apf4TGpBeNcpBx",
+        "name": "Only You",
+        "artist": "The Platters",
+        "artistId": "6KWcxMWVNVIYbdOQyJtsSy"
+      },
+      {
+        "uri": "spotify:track:2vSxjnyrWrtxyfzO47EX6q",
+        "id": "2vSxjnyrWrtxyfzO47EX6q",
+        "name": "Smoke Gets In Your Eyes",
+        "artist": "The Platters",
+        "artistId": "6KWcxMWVNVIYbdOQyJtsSy"
+      },
+      {
+        "uri": "spotify:track:3Dd3FK9DSaoMoUKA5ZPVgw",
+        "id": "3Dd3FK9DSaoMoUKA5ZPVgw",
+        "name": "In the Still of the Night",
+        "artist": "The Five Satins",
+        "artistId": "2YP02JRa1JLejrg3XTssJS"
+      },
+      {
+        "uri": "spotify:track:2GPsSlXcJ4RnFStAU2O4ZE",
+        "id": "2GPsSlXcJ4RnFStAU2O4ZE",
+        "name": "Earth Angel",
+        "artist": "The Penguins",
+        "artistId": "6lOk7hCr8x3O9vHwylXyHR"
+      },
+      {
+        "uri": "spotify:track:2O4GVKCFyx0sgtDvXI9VRv",
+        "id": "2O4GVKCFyx0sgtDvXI9VRv",
+        "name": "Why Do Fools Fall in Love",
+        "artist": "Frankie Lymon & The Teenagers",
+        "artistId": "40Zt6u0Ig5vXtrq0htgqvt"
+      },
+      {
+        "uri": "spotify:track:4l9hml2UCnxoNI3yCdL1BW",
+        "id": "4l9hml2UCnxoNI3yCdL1BW",
+        "name": "My Funny Valentine",
+        "artist": "Chet Baker",
+        "artistId": "3rxeQlsv0Sc2nyYaZ5W71T"
+      },
+      {
+        "uri": "spotify:track:7hxZF4jETnE5Q75rKQnMjE",
+        "id": "7hxZF4jETnE5Q75rKQnMjE",
+        "name": "I Walk the Line",
+        "artist": "Johnny Cash",
+        "artistId": "6kACVPfCOnqzgfEF5ryl0x"
+      },
+      {
+        "uri": "spotify:track:6SjH5Nq3UBgHfz84hWKgDt",
+        "id": "6SjH5Nq3UBgHfz84hWKgDt",
+        "name": "Blue Suede Shoes",
+        "artist": "Carl Perkins",
+        "artistId": "5hIClg6noTaCzMu2s5wp4f"
+      },
+      {
+        "uri": "spotify:track:3RHPUvpYoXO36C8ZEbZnLq",
+        "id": "3RHPUvpYoXO36C8ZEbZnLq",
+        "name": "Be-Bop-A-Lula",
+        "artist": "Gene Vincent",
+        "artistId": "5VAHm7V5mnsxvQrWw3KHmx"
+      },
+      {
+        "uri": "spotify:track:6C7aTTCUWRK7dD379yUT3W",
+        "id": "6C7aTTCUWRK7dD379yUT3W",
+        "name": "Roll Over Beethoven",
+        "artist": "Chuck Berry",
+        "artistId": "293zczrfYafIItmnmM3coR"
+      },
+      {
+        "uri": "spotify:track:2drXvACELcvwryaFRiRPdA",
+        "id": "2drXvACELcvwryaFRiRPdA",
+        "name": "Sh-Boom",
+        "artist": "The Chords",
+        "artistId": "2iSZ41LUUYVcz5At9Xuz7T"
+      },
+      {
+        "uri": "spotify:track:64Ny7djQ6rNJspquof2KoX",
+        "id": "64Ny7djQ6rNJspquof2KoX",
+        "name": "Hound Dog",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:0YZmQvGsWAyQTaRNdtTW7e",
+        "id": "0YZmQvGsWAyQTaRNdtTW7e",
+        "name": "Dream a Little Dream of Me",
+        "artist": "Ella Fitzgerald",
+        "artistId": "5V0MlUE1Bft0mbLlND7FJz"
+      },
+      {
+        "uri": "spotify:track:648TTtYB0bH0P8Hfy0FmkL",
+        "id": "648TTtYB0bH0P8Hfy0FmkL",
+        "name": "Unforgettable",
+        "artist": "Nat King Cole",
+        "artistId": "7v4imS0moSyGdXyLgVTIV7"
+      },
+      {
+        "uri": "spotify:track:5dae01pKNjRQtgOeAkFzPY",
+        "id": "5dae01pKNjRQtgOeAkFzPY",
+        "name": "Mona Lisa",
+        "artist": "Nat King Cole",
+        "artistId": "7v4imS0moSyGdXyLgVTIV7"
+      },
+      {
+        "uri": "spotify:track:7f6AAixCrVar1ZY7RPHDfM",
+        "id": "7f6AAixCrVar1ZY7RPHDfM",
+        "name": "Cry Me A River",
+        "artist": "Julie London",
+        "artistId": "3qUMmh5biaB5hqpF4LqS3m"
+      },
+      {
+        "uri": "spotify:track:0QGwOFQChzflLAmPq5NwKo",
+        "id": "0QGwOFQChzflLAmPq5NwKo",
+        "name": "A Teenager In Love",
+        "artist": "Dion & The Belmonts",
+        "artistId": "2loYllWFfoWpoxC5YrJKc4"
+      },
+      {
+        "uri": "spotify:track:1GcPhT7osBb4LEJnQ0tmfj",
+        "id": "1GcPhT7osBb4LEJnQ0tmfj",
+        "name": "Come Fly With Me",
+        "artist": "Frank Sinatra",
+        "artistId": "1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      {
+        "uri": "spotify:track:3x6wVKXfCm85Pw7gYo0rqq",
+        "id": "3x6wVKXfCm85Pw7gYo0rqq",
+        "name": "That's Amore",
+        "artist": "Dean Martin",
+        "artistId": "49e4v89VmlDcFCMyDv9wQ9"
+      },
+      {
+        "uri": "spotify:track:47O5lXcK78Z3TIiGzuc18l",
+        "id": "47O5lXcK78Z3TIiGzuc18l",
+        "name": "Mr. Sandman",
+        "artist": "The Chordettes",
+        "artistId": "62GnBjssWSXBlKvQohT2Bk"
+      },
+      {
+        "uri": "spotify:track:0ZOuues7b9AgBOJ0YRZMLR",
+        "id": "0ZOuues7b9AgBOJ0YRZMLR",
+        "name": "Lollipop",
+        "artist": "The Chordettes",
+        "artistId": "62GnBjssWSXBlKvQohT2Bk"
+      },
+      {
+        "uri": "spotify:track:4LcrHUkRmXG3c0YD5VYutn",
+        "id": "4LcrHUkRmXG3c0YD5VYutn",
+        "name": "At The Hop",
+        "artist": "Danny & The Juniors",
+        "artistId": "6Ahm6X9wSKXitavOvu0XzY"
+      },
+      {
+        "uri": "spotify:track:34AmZ4PMz9iNZVp9AMIGZj",
+        "id": "34AmZ4PMz9iNZVp9AMIGZj",
+        "name": "Rock Around The Clock",
+        "artist": "Bill Haley & His Comets",
+        "artistId": "3MFp4cYuYtTZe3d3xkLLbr"
+      },
+      {
+        "uri": "spotify:track:07GtDOCxmye5KDWsTSACPk",
+        "id": "07GtDOCxmye5KDWsTSACPk",
+        "name": "Chantilly Lace",
+        "artist": "The Big Bopper",
+        "artistId": "2gNK2HAaLVz5DZoD2moDQj"
+      },
+      {
+        "uri": "spotify:track:7JI1MoBWRQAZFTL5FxrQla",
+        "id": "7JI1MoBWRQAZFTL5FxrQla",
+        "name": "Personality",
+        "artist": "Lloyd Price",
+        "artistId": "3iOE5ItEv5xr9fmKi7GNh2"
+      },
+      {
+        "uri": "spotify:track:7qoaMWT3eRCKG1RN6dVuOY",
+        "id": "7qoaMWT3eRCKG1RN6dVuOY",
+        "name": "Stagger Lee",
+        "artist": "Lloyd Price",
+        "artistId": "3iOE5ItEv5xr9fmKi7GNh2"
+      },
+      {
+        "uri": "spotify:track:2DpJ9T2RVRanZcYFHKOAfA",
+        "id": "2DpJ9T2RVRanZcYFHKOAfA",
+        "name": "Put Your Head On My Shoulder",
+        "artist": "Paul Anka",
+        "artistId": "7ceUfdWq2t5nbatS6ollHh"
+      },
+      {
+        "uri": "spotify:track:2k6qpHJsrKCCyvsHv2cPqR",
+        "id": "2k6qpHJsrKCCyvsHv2cPqR",
+        "name": "Diana",
+        "artist": "Paul Anka",
+        "artistId": "7ceUfdWq2t5nbatS6ollHh"
+      },
+      {
+        "uri": "spotify:track:59y4g0VUwHkmrkq66Z2xlz",
+        "id": "59y4g0VUwHkmrkq66Z2xlz",
+        "name": "Yakety Yak",
+        "artist": "The Coasters",
+        "artistId": "3QZKZBEmr54lAVI5XvmjnM"
+      },
+      {
+        "uri": "spotify:track:365Ay9yL2XPv5PODAiggGA",
+        "id": "365Ay9yL2XPv5PODAiggGA",
+        "name": "Charlie Brown",
+        "artist": "The Coasters",
+        "artistId": "3QZKZBEmr54lAVI5XvmjnM"
+      },
+      {
+        "uri": "spotify:track:5gJKsGij5oGt5H5RSFYXPa",
+        "id": "5gJKsGij5oGt5H5RSFYXPa",
+        "name": "Tequila",
+        "artist": "The Champs",
+        "artistId": "3yt4IVDHz0luREG9Uf9xrp"
+      },
+      {
+        "uri": "spotify:track:5zyrEv4F3FaLECI8TOKpFM",
+        "id": "5zyrEv4F3FaLECI8TOKpFM",
+        "name": "Nel Blu Dipinto Di Blu",
+        "artist": "Domenico Modugno",
+        "artistId": "4llklDtTTyMYMY2LfFOkTI"
+      },
+      {
+        "uri": "spotify:track:6nMzaWZFYKXo2O6OqbfBnO",
+        "id": "6nMzaWZFYKXo2O6OqbfBnO",
+        "name": "La Bamba",
+        "artist": "Ritchie Valens",
+        "artistId": "5Y9xEAGW4GwGJgbiI6W85P"
+      },
+      {
+        "uri": "spotify:track:5jjrPdeClupQkNkGR1sth7",
+        "id": "5jjrPdeClupQkNkGR1sth7",
+        "name": "Donna",
+        "artist": "Ritchie Valens",
+        "artistId": "5Y9xEAGW4GwGJgbiI6W85P"
+      },
+      {
+        "uri": "spotify:track:0yK8sWD6cfrc7pGfaPIcZH",
+        "id": "0yK8sWD6cfrc7pGfaPIcZH",
+        "name": "Sleep Walk",
+        "artist": "Santo & Johnny",
+        "artistId": "4hGjngc0tPOBwTgTPci3IK"
+      },
+      {
+        "uri": "spotify:track:7iBBcw61QVJxI3NDzlpX2E",
+        "id": "7iBBcw61QVJxI3NDzlpX2E",
+        "name": "Love Me Tender",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:4KMXlzvtC8xjLseDqDjpeU",
+        "id": "4KMXlzvtC8xjLseDqDjpeU",
+        "name": "My Babe",
+        "artist": "Little Walter",
+        "artistId": "22JuR9OeENcP54XN5TlNWS"
+      },
+      {
+        "uri": "spotify:track:0GvhHQbWSnGltjl0je61dI",
+        "id": "0GvhHQbWSnGltjl0je61dI",
+        "name": "Mystery Train",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:5fNDP3NTdE69szQHUl4fFr",
+        "id": "5fNDP3NTdE69szQHUl4fFr",
+        "name": "Please Mr. Postman",
+        "artist": "The Marvelettes",
+        "artistId": "0MponVSpW81oLvJZ53vYZH"
+      },
+      {
+        "uri": "spotify:track:2s4B4fUlVIkE4ELgoupjXL",
+        "id": "2s4B4fUlVIkE4ELgoupjXL",
+        "name": "There Goes My Baby",
+        "artist": "The Drifters",
+        "artistId": "1FqqOl9itIUpXr4jZPIVoT"
+      },
+      {
+        "uri": "spotify:track:391TUcoPonqYykPkSZ5Z9U",
+        "id": "391TUcoPonqYykPkSZ5Z9U",
+        "name": "Save the Last Dance for Me",
+        "artist": "The Drifters",
+        "artistId": "1FqqOl9itIUpXr4jZPIVoT"
+      },
+      {
+        "uri": "spotify:track:7iwQPvyViIkyT0HWnatjnk",
+        "id": "7iwQPvyViIkyT0HWnatjnk",
+        "name": "Blue Monday",
+        "artist": "Fats Domino",
+        "artistId": "09C0xjtosNAIXP36wTnWxd"
+      },
+      {
+        "uri": "spotify:track:4ZfQwNx3FlCN07cnUvekh3",
+        "id": "4ZfQwNx3FlCN07cnUvekh3",
+        "name": "Ain't That A Shame",
+        "artist": "Fats Domino",
+        "artistId": "09C0xjtosNAIXP36wTnWxd"
+      },
+      {
+        "uri": "spotify:track:1f0Wfl3eLCLKv72SdkpviC",
+        "id": "1f0Wfl3eLCLKv72SdkpviC",
+        "name": "Misty",
+        "artist": "Sarah Vaughan",
+        "artistId": "1bgyxtWjZwA5PQlDsvs9b8"
+      },
+      {
+        "uri": "spotify:track:3YdKJzcoMZMacISlpY4QoP",
+        "id": "3YdKJzcoMZMacISlpY4QoP",
+        "name": "I Only Have Eyes for You",
+        "artist": "The Flamingos",
+        "artistId": "6iygtKnPG7TRvDaTYcLOd6"
+      },
+      {
+        "uri": "spotify:track:0E6gXsyHWCZM7lzGuGWeZC",
+        "id": "0E6gXsyHWCZM7lzGuGWeZC",
+        "name": "Rave On",
+        "artist": "Buddy Holly",
+        "artistId": "3wYyutjgII8LJVVOLrGI0D"
+      },
+      {
+        "uri": "spotify:track:1xVOttVNT27FBTD8iHjOfU",
+        "id": "1xVOttVNT27FBTD8iHjOfU",
+        "name": "It's Only Make Believe",
+        "artist": "Conway Twitty",
+        "artistId": "7gi3jmwpUpNWdswT8eEprF"
+      },
+      {
+        "uri": "spotify:track:5AtiU1O0CvzZ6f8btFZeBM",
+        "id": "5AtiU1O0CvzZ6f8btFZeBM",
+        "name": "Sea of Love",
+        "artist": "Phil Phillips",
+        "artistId": "4RoSFlSfHkTux15j7kUIAc"
+      },
+      {
+        "uri": "spotify:track:4kh2S9hRpPvoF9JkwZcYGN",
+        "id": "4kh2S9hRpPvoF9JkwZcYGN",
+        "name": "Lonely Boy",
+        "artist": "Paul Anka",
+        "artistId": "7ceUfdWq2t5nbatS6ollHh"
+      },
+      {
+        "uri": "spotify:track:7lsnsM39mjdDKEbge48Ezx",
+        "id": "7lsnsM39mjdDKEbge48Ezx",
+        "name": "Since I Don't Have You",
+        "artist": "The Skyliners",
+        "artistId": "4JeG1IusHcsL2owYnsJ7wk"
+      },
+      {
+        "uri": "spotify:track:0PkBTqRtN25z3oKasWoKlj",
+        "id": "0PkBTqRtN25z3oKasWoKlj",
+        "name": "Only the Lonely",
+        "artist": "Roy Orbison",
+        "artistId": "0JDkhL4rjiPNEp92jAgJnS"
+      },
+      {
+        "uri": "spotify:track:603N4XGJUTbK760GLCvIIs",
+        "id": "603N4XGJUTbK760GLCvIIs",
+        "name": "Come Softly To Me",
+        "artist": "The Fleetwoods",
+        "artistId": "673J686eeEXMYJorgQ70lX"
+      },
+      {
+        "uri": "spotify:track:5Iev69m1Jnf7oc79VvPjpd",
+        "id": "5Iev69m1Jnf7oc79VvPjpd",
+        "name": "Cupid",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:5ueyLj6e6oVaTY0KQ6yLaA",
+        "id": "5ueyLj6e6oVaTY0KQ6yLaA",
+        "name": "All Shook Up",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:4llDVyQJ0ZG9ZWoQixCmkM",
+        "id": "4llDVyQJ0ZG9ZWoQixCmkM",
+        "name": "Little Darlin'",
+        "artist": "The Diamonds",
+        "artistId": "3s9kaLrpplvv4vIzZBYPga"
+      },
+      {
+        "uri": "spotify:track:2kBLcDZ8UqEgUohZ4lyxL5",
+        "id": "2kBLcDZ8UqEgUohZ4lyxL5",
+        "name": "Chances Are",
+        "artist": "Johnny Mathis",
+        "artistId": "21LGsW7bziR4Ledx7WZ1Wf"
+      },
+      {
+        "uri": "spotify:track:29U7stRjqHU6rMiS8BfaI9",
+        "id": "29U7stRjqHU6rMiS8BfaI9",
+        "name": "What A Wonderful World",
+        "artist": "Louis Armstrong",
+        "artistId": "19eLuQmk9aCobbVDHc6eek"
+      },
+      {
+        "uri": "spotify:track:6Q2pkSKuM08SDOuAS5amQD",
+        "id": "6Q2pkSKuM08SDOuAS5amQD",
+        "name": "The Great Pretender",
+        "artist": "The Platters",
+        "artistId": "6KWcxMWVNVIYbdOQyJtsSy"
+      },
+      {
+        "uri": "spotify:track:4J7VWj4ibCSw3tCiRKpypm",
+        "id": "4J7VWj4ibCSw3tCiRKpypm",
+        "name": "Shout",
+        "artist": "The Isley Brothers",
+        "artistId": "53QzNeFpzAaXYnrDBbDrIp"
+      },
+      {
+        "uri": "spotify:track:2ZwlxYJdTUwgd9wQEgURtj",
+        "id": "2ZwlxYJdTUwgd9wQEgURtj",
+        "name": "Poison Ivy",
+        "artist": "The Coasters",
+        "artistId": "3QZKZBEmr54lAVI5XvmjnM"
+      },
+      {
+        "uri": "spotify:track:3ncHPBk5AJROxSCCcU8M8x",
+        "id": "3ncHPBk5AJROxSCCcU8M8x",
+        "name": "Why?",
+        "artist": "Frankie Avalon",
+        "artistId": "5zNOI87gG4RttFmYAZWaxQ"
+      },
+      {
+        "uri": "spotify:track:2TGiDvXSDPCcBTfaMtmsRc",
+        "id": "2TGiDvXSDPCcBTfaMtmsRc",
+        "name": "(Now and Then There's) A Fool Such as I",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:47Yann2RUKWbjSIIjQadiC",
+        "id": "47Yann2RUKWbjSIIjQadiC",
+        "name": "Blue Moon",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:1XunTmhOcj3xwh4b8P3isX",
+        "id": "1XunTmhOcj3xwh4b8P3isX",
+        "name": "It's Now or Never",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:3U3HimDRAliNfSJZyBxnxu",
+        "id": "3U3HimDRAliNfSJZyBxnxu",
+        "name": "Who's Sorry Now",
+        "artist": "Connie Francis",
+        "artistId": "3EY5DxGdy7x4GelivOjS2Q"
+      },
+      {
+        "uri": "spotify:track:1tY8PhIOqDTx1GHDEhSuxh",
+        "id": "1tY8PhIOqDTx1GHDEhSuxh",
+        "name": "Lipstick On Your Collar",
+        "artist": "Connie Francis",
+        "artistId": "3EY5DxGdy7x4GelivOjS2Q"
+      },
+      {
+        "uri": "spotify:track:1aiPuXtrBYXkqaf8aAO4na",
+        "id": "1aiPuXtrBYXkqaf8aAO4na",
+        "name": "Sixteen Candles",
+        "artist": "The Crests",
+        "artistId": "64vw6q9ZBTop3Tf2ol1x4U"
+      },
+      {
+        "uri": "spotify:track:0ZvgXNstN4o2ZXPomtBYVp",
+        "id": "0ZvgXNstN4o2ZXPomtBYVp",
+        "name": "Good Golly, Miss Molly",
+        "artist": "Little Richard",
+        "artistId": "4xls23Ye9WR9yy3yYMpAMm"
+      },
+      {
+        "uri": "spotify:track:0jqr2lIlIU09FsuSOibDdA",
+        "id": "0jqr2lIlIU09FsuSOibDdA",
+        "name": "Money (That's What I Want)",
+        "artist": "Barrett Strong",
+        "artistId": "3MKwHkhEjcvzva2rasZeWD"
+      },
+      {
+        "uri": "spotify:track:4GvyP7CnBJEV2t7L7vOkjw",
+        "id": "4GvyP7CnBJEV2t7L7vOkjw",
+        "name": "Kansas City",
+        "artist": "Wilbert Harrison",
+        "artistId": "7rETVFaF9VOFPmmzsY3kO6"
+      },
+      {
+        "uri": "spotify:track:2CeqxyOZEyiL6pTDYZ9gPH",
+        "id": "2CeqxyOZEyiL6pTDYZ9gPH",
+        "name": "Fever",
+        "artist": "Peggy Lee",
+        "artistId": "602DnpaSXJB4b9DZrvxbDc"
+      },
+      {
+        "uri": "spotify:track:4eHWJt5XHmmpb9p5QUmaWO",
+        "id": "4eHWJt5XHmmpb9p5QUmaWO",
+        "name": "I Got a Woman",
+        "artist": "Ray Charles",
+        "artistId": "1eYhYunlNJlDoQhtYBvPsi"
+      },
+      {
+        "uri": "spotify:track:7bVRL4D1ZR7VhPvBnS2nsI",
+        "id": "7bVRL4D1ZR7VhPvBnS2nsI",
+        "name": "Rockin' Robin",
+        "artist": "Bobby Day",
+        "artistId": "4SLfKHcufUqU46DiTAHIsj"
+      },
+      {
+        "uri": "spotify:track:5dUMh0ugelpKfoFp3qChuK",
+        "id": "5dUMh0ugelpKfoFp3qChuK",
+        "name": "Hit the Road Jack",
+        "artist": "Ray Charles",
+        "artistId": "1eYhYunlNJlDoQhtYBvPsi"
+      },
+      {
+        "uri": "spotify:track:1AGU94UmRrDst2T9C5pEvI",
+        "id": "1AGU94UmRrDst2T9C5pEvI",
+        "name": "Georgia on My Mind",
+        "artist": "Ray Charles",
+        "artistId": "1eYhYunlNJlDoQhtYBvPsi"
+      },
+      {
+        "uri": "spotify:track:7v3zsFlSU28kiv3sqRAPNl",
+        "id": "7v3zsFlSU28kiv3sqRAPNl",
+        "name": "Moi je joue",
+        "artist": "Brigitte Bardot",
+        "artistId": "1q24xIsAD7JZuVkTLR9TJy"
+      },
+      {
+        "uri": "spotify:track:6FT83pFXKhDlXDsNJFAHWz",
+        "id": "6FT83pFXKhDlXDsNJFAHWz",
+        "name": "You Never Can Tell",
+        "artist": "Chuck Berry",
+        "artistId": "293zczrfYafIItmnmM3coR"
+      },
+      {
+        "uri": "spotify:track:39lnzOIUCSNaQmgBHoz7rt",
+        "id": "39lnzOIUCSNaQmgBHoz7rt",
+        "name": "Everyday",
+        "artist": "Buddy Holly",
+        "artistId": "3wYyutjgII8LJVVOLrGI0D"
+      },
+      {
+        "uri": "spotify:track:0hjYuU2Z9jcKvOl39oUpeE",
+        "id": "0hjYuU2Z9jcKvOl39oUpeE",
+        "name": "Diana - Remastered 2003",
+        "artist": "Paul Anka",
+        "artistId": "7ceUfdWq2t5nbatS6ollHh"
+      },
+      {
+        "uri": "spotify:track:4cRfSR0QxDlXRHTKyEOu93",
+        "id": "4cRfSR0QxDlXRHTKyEOu93",
+        "name": "Come On, Let's Go",
+        "artist": "Ritchie Valens",
+        "artistId": "5Y9xEAGW4GwGJgbiI6W85P"
+      },
+      {
+        "uri": "spotify:track:66iKqUazBbTlAEjcZrpDkD",
+        "id": "66iKqUazBbTlAEjcZrpDkD",
+        "name": "What A Diff'rence A Day Made",
+        "artist": "Dinah Washington",
+        "artistId": "32LHRiof0sa4taYew9i3Fa"
+      },
+      {
+        "uri": "spotify:track:3aEJMh1cXKEjgh52claxQp",
+        "id": "3aEJMh1cXKEjgh52claxQp",
+        "name": "I've Got You Under My Skin - Remastered 1998",
+        "artist": "Frank Sinatra",
+        "artistId": "1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      {
+        "uri": "spotify:track:58PSYdY0GFg0LFb2PxYk4T",
+        "id": "58PSYdY0GFg0LFb2PxYk4T",
+        "name": "Mannish Boy",
+        "artist": "Muddy Waters",
+        "artistId": "4y6J8jwRAwO4dssiSmN91R"
+      },
+      {
+        "uri": "spotify:track:5YLOif5QjyVGSFNjDy6mC6",
+        "id": "5YLOif5QjyVGSFNjDy6mC6",
+        "name": "Sh-Boom (Life Could Be a Dream)",
+        "artist": "The Crew Cuts",
+        "artistId": "49ttCh41vxv6R4r8S2YwXv"
+      },
+      {
+        "uri": "spotify:track:3P6OwCX7Ofiaaqtvujb6i5",
+        "id": "3P6OwCX7Ofiaaqtvujb6i5",
+        "name": "Sixteen Tons",
+        "artist": "Tennessee Ernie Ford",
+        "artistId": "7u6FSuqT3SWE2kO8rNVjfp"
+      },
+      {
+        "uri": "spotify:track:3nUrhP3KuK4R1qdxRk2Kgo",
+        "id": "3nUrhP3KuK4R1qdxRk2Kgo",
+        "name": "Stupid Cupid",
+        "artist": "Connie Francis",
+        "artistId": "3EY5DxGdy7x4GelivOjS2Q"
+      },
+      {
+        "uri": "spotify:track:1VI29k31nGdasgJ8BBpPu8",
+        "id": "1VI29k31nGdasgJ8BBpPu8",
+        "name": "Oh! Carol",
+        "artist": "Neil Sedaka",
+        "artistId": "5N6GwJzOcOY5kv8p0NjhYL"
+      },
+      {
+        "uri": "spotify:track:11fNLqDB47gMKj7BHhR2Qr",
+        "id": "11fNLqDB47gMKj7BHhR2Qr",
+        "name": "Wake up Little Susie",
+        "artist": "The Everly Brothers",
+        "artistId": "4ACplpEqD6JIVgKrafauzs"
+      },
+      {
+        "uri": "spotify:track:0TMrV95mP7sDlvbE4iVfKP",
+        "id": "0TMrV95mP7sDlvbE4iVfKP",
+        "name": "Be-Bop-A-Lula",
+        "artist": "Gene Vincent & His Blue Caps",
+        "artistId": "7lKaTIgVek1R2lqpCulQmq"
+      },
+      {
+        "uri": "spotify:track:25IiJu0DjOqsnQXgNHWp5i",
+        "id": "25IiJu0DjOqsnQXgNHWp5i",
+        "name": "Will You Love Me Tomorrow",
+        "artist": "The Shirelles",
+        "artistId": "0x83OBqixqdCHnStP5VMcn"
+      },
+      {
+        "uri": "spotify:track:06nE565N1lmMjlMQAnRuV9",
+        "id": "06nE565N1lmMjlMQAnRuV9",
+        "name": "Love Is Strange",
+        "artist": "Mickey & Sylvia",
+        "artistId": "4Ej7Oks6loB2oJQ3O7Rujs"
+      },
+      {
+        "uri": "spotify:track:3qt3ybU6MScMxMKL2TYBvt",
+        "id": "3qt3ybU6MScMxMKL2TYBvt",
+        "name": "No Particular Place To Go",
+        "artist": "Chuck Berry",
+        "artistId": "293zczrfYafIItmnmM3coR"
+      },
+      {
+        "uri": "spotify:track:1MUsWVRPLaC7ANKcEiMRCl",
+        "id": "1MUsWVRPLaC7ANKcEiMRCl",
+        "name": "Don't Be Cruel",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:5xzdDMhFYiuUONB0Mha9VS",
+        "id": "5xzdDMhFYiuUONB0Mha9VS",
+        "name": "The Locomotion",
+        "artist": "Little Eva",
+        "artistId": "4S76LQXJD6N2uPcLhKejG8"
+      },
+      {
+        "uri": "spotify:track:7jeOETwLUP84mPQzxlD5nh",
+        "id": "7jeOETwLUP84mPQzxlD5nh",
+        "name": "Then He Kissed Me",
+        "artist": "The Crystals",
+        "artistId": "7rewR1TVjhisjI6gauUamf"
+      },
+      {
+        "uri": "spotify:track:00meczE1jpLTX0BBzIGrAR",
+        "id": "00meczE1jpLTX0BBzIGrAR",
+        "name": "Big Girls Don't Cry",
+        "artist": "Frankie Valli & The Four Seasons",
+        "artistId": "6mcrZQmgzFGRWf7C0SObou"
+      },
+      {
+        "uri": "spotify:track:6b6IMqP565TbtFFZg9iFf3",
+        "id": "6b6IMqP565TbtFFZg9iFf3",
+        "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+        "artist": "Four Tops",
+        "artistId": "7fIvjotigTGWqjIz6EP1i4"
+      },
+      {
+        "uri": "spotify:track:4YXKKnIZuk7UtXH5oC0ffa",
+        "id": "4YXKKnIZuk7UtXH5oC0ffa",
+        "name": "Lucille",
+        "artist": "Little Richard",
+        "artistId": "4xls23Ye9WR9yy3yYMpAMm"
+      },
+      {
+        "uri": "spotify:track:3oAWTk92mZBxKBOKf8mR5v",
+        "id": "3oAWTk92mZBxKBOKf8mR5v",
+        "name": "Summertime Blues",
+        "artist": "Eddie Cochran",
+        "artistId": "1p0t3JtUTayV2wb1RGN9mO"
+      },
+      {
+        "uri": "spotify:track:5Q7ayTarb9Tpmkik5cVMug",
+        "id": "5Q7ayTarb9Tpmkik5cVMug",
+        "name": "Viva Las Vegas",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:0NI42v4l2AxIbgoIrWKiBU",
+        "id": "0NI42v4l2AxIbgoIrWKiBU",
+        "name": "Just A Gigolo / I Ain't Got Nobody - Medley / Remastered 2002",
+        "artist": "Louis Prima",
+        "artistId": "52lBOxCxbJg0ttXEW9CQpW"
+      },
+      {
+        "uri": "spotify:track:5Fpe2DMiC7BujUQeZFY6IV",
+        "id": "5Fpe2DMiC7BujUQeZFY6IV",
+        "name": "A Little Less Conversation",
+        "artist": "Elvis Presley",
+        "artistId": "43ZHCT0cAZBISjO8DG9PnE"
+      },
+      {
+        "uri": "spotify:track:1JEsKzykhLksEZbAlDlqpz",
+        "id": "1JEsKzykhLksEZbAlDlqpz",
+        "name": "If You Wanna Be Happy",
+        "artist": "Jimmy Soul",
+        "artistId": "7k4MYPtpz3fAViMuuLi9ry"
+      },
+      {
+        "uri": "spotify:track:4YCnTYbq3oL1Lqpyxg33CU",
+        "id": "4YCnTYbq3oL1Lqpyxg33CU",
+        "name": "The Twist",
+        "artist": "Chubby Checker",
+        "artistId": "7qQJQ3YtcGlqaLg5tcypN2"
+      },
+      {
+        "uri": "spotify:track:507IFqPuG8mBQoKebfGG9t",
+        "id": "507IFqPuG8mBQoKebfGG9t",
+        "name": "Long Tall Sally (The Thing)",
+        "artist": "Little Richard",
+        "artistId": "4xls23Ye9WR9yy3yYMpAMm"
+      },
+      {
+        "uri": "spotify:track:3v8d3ku3kiTZVPxEt7a2dE",
+        "id": "3v8d3ku3kiTZVPxEt7a2dE",
+        "name": "The Wanderer",
+        "artist": "Dion",
+        "artistId": "15FyiY3ChN0QRspHIQYq0W"
+      },
+      {
+        "uri": "spotify:track:61ShRbIST9rEP6xGs5xctq",
+        "id": "61ShRbIST9rEP6xGs5xctq",
+        "name": "Eri piccola così",
+        "artist": "Fred Buscaglione",
+        "artistId": "2OZgYaqlFRoRyycKkIvkSa"
+      },
+      {
+        "uri": "spotify:track:29He3CnNVdmyFpvAI3fFfr",
+        "id": "29He3CnNVdmyFpvAI3fFfr",
+        "name": "Che notte!",
+        "artist": "Fred Buscaglione",
+        "artistId": "2OZgYaqlFRoRyycKkIvkSa"
+      }
+    ],
+    "Best 60": [
+      {
+        "uri": "spotify:track:0dGTQgPdVac64xn08TmZK2",
+        "id": "0dGTQgPdVac64xn08TmZK2",
+        "name": "This Will Be Our Year",
+        "artist": "The Zombies",
+        "artistId": "2jgPkn6LuUazBoBk6vvjh5"
+      },
+      {
+        "uri": "spotify:track:4hupcimlg3UBbW1kAQ6vrT",
+        "id": "4hupcimlg3UBbW1kAQ6vrT",
+        "name": "Ruby Tuesday",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:6KZqW1CRQjzpRgXoOmLkKQ",
+        "id": "6KZqW1CRQjzpRgXoOmLkKQ",
+        "name": "Don't Worry Baby",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:09Plbz3Ja2gxU9xCsqA5KY",
+        "id": "09Plbz3Ja2gxU9xCsqA5KY",
+        "name": "Sunny Afternoon",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:3KfbEIOC7YIv90FIfNSZpo",
+        "id": "3KfbEIOC7YIv90FIfNSZpo",
+        "name": "In My Life - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:4T0HyZOD3EfKqQV7xKecj6",
+        "id": "4T0HyZOD3EfKqQV7xKecj6",
+        "name": "The Air That I Breathe",
+        "artist": "The Hollies",
+        "artistId": "6waa8mKu91GjzD4NlONlNJ"
+      },
+      {
+        "uri": "spotify:track:1Jmqubf9kGkWeYQXQKImL5",
+        "id": "1Jmqubf9kGkWeYQXQKImL5",
+        "name": "People Are Strange",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:62AuGbAkt8Ox2IrFFb8GKV",
+        "id": "62AuGbAkt8Ox2IrFFb8GKV",
+        "name": "Sweet Caroline",
+        "artist": "Neil Diamond",
+        "artistId": "7mEIug7XUlQHikrFxjTWes"
+      },
+      {
+        "uri": "spotify:track:2BGNomqCxEDcXyxf8bg27k",
+        "id": "2BGNomqCxEDcXyxf8bg27k",
+        "name": "Eight Miles High",
+        "artist": "The Byrds",
+        "artistId": "1PCZpxHJz7WAMF8EEq8bfc"
+      },
+      {
+        "uri": "spotify:track:0O0ccjfbxoW3FBCXznYDJJ",
+        "id": "0O0ccjfbxoW3FBCXznYDJJ",
+        "name": "Pleasant Valley Sunday",
+        "artist": "The Monkees",
+        "artistId": "320EPCSEezHt1rtbfwH6Ck"
+      },
+      {
+        "uri": "spotify:track:6ek9SiEj5a65WIs2EV7qiM",
+        "id": "6ek9SiEj5a65WIs2EV7qiM",
+        "name": "Son Of A Preacher Man",
+        "artist": "Dusty Springfield",
+        "artistId": "5zaXYwewAXedKNCff45U5l"
+      },
+      {
+        "uri": "spotify:track:6VojZJpMyuKClbwyilWlQj",
+        "id": "6VojZJpMyuKClbwyilWlQj",
+        "name": "Wouldn't It Be Nice",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:6dfhF1BDGmhM69fnCb6wSC",
+        "id": "6dfhF1BDGmhM69fnCb6wSC",
+        "name": "America",
+        "artist": "Simon & Garfunkel",
+        "artistId": "70cRZdQywnSFp9pnc2WTCE"
+      },
+      {
+        "uri": "spotify:track:7AzFID6u1b3zIWbd9pb8Dk",
+        "id": "7AzFID6u1b3zIWbd9pb8Dk",
+        "name": "Summer in the City - Remastered",
+        "artist": "The Lovin' Spoonful",
+        "artistId": "7CCn4PFRRRZF127jtCBAUe"
+      },
+      {
+        "uri": "spotify:track:6eLL7QTdMWdhhG4i3jHDR9",
+        "id": "6eLL7QTdMWdhhG4i3jHDR9",
+        "name": "Crying",
+        "artist": "Roy Orbison",
+        "artistId": "0JDkhL4rjiPNEp92jAgJnS"
+      },
+      {
+        "uri": "spotify:track:3OtsmzTZs50ahEnHKVvozC",
+        "id": "3OtsmzTZs50ahEnHKVvozC",
+        "name": "Paperback Writer - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:6s6jmTumtDJGOB725jMJ8z",
+        "id": "6s6jmTumtDJGOB725jMJ8z",
+        "name": "She's Not There",
+        "artist": "The Zombies",
+        "artistId": "2jgPkn6LuUazBoBk6vvjh5"
+      },
+      {
+        "uri": "spotify:track:2IXGIhLcTl5WsCcFYuq3Tt",
+        "id": "2IXGIhLcTl5WsCcFYuq3Tt",
+        "name": "It's My Life",
+        "artist": "The Animals",
+        "artistId": "3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      {
+        "uri": "spotify:track:4CNL4GBNTdVIU5Nk6hB4LC",
+        "id": "4CNL4GBNTdVIU5Nk6hB4LC",
+        "name": "Brown Eyed Girl",
+        "artist": "Van Morrison",
+        "artistId": "44NX2ffIYHr6D4n7RaZF7A"
+      },
+      {
+        "uri": "spotify:track:1JO1xLtVc8mWhIoE3YaCL0",
+        "id": "1JO1xLtVc8mWhIoE3YaCL0",
+        "name": "Happy Together",
+        "artist": "The Turtles",
+        "artistId": "2VIoWte1HPDbZ2WqHd2La7"
+      },
+      {
+        "uri": "spotify:track:1J7wMZrvCtWZlXBdMM25Ce",
+        "id": "1J7wMZrvCtWZlXBdMM25Ce",
+        "name": "Strawberry Fields Forever",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:2cwjS2UkebBgXfQgUZvr4W",
+        "id": "2cwjS2UkebBgXfQgUZvr4W",
+        "name": "Never My Love",
+        "artist": "The Association",
+        "artistId": "2kuNswDC82PL9xRbfaZJaS"
+      },
+      {
+        "uri": "spotify:track:6Ht0wBgRgLQPjIQKks766b",
+        "id": "6Ht0wBgRgLQPjIQKks766b",
+        "name": "Substitute",
+        "artist": "The Who",
+        "artistId": "67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "uri": "spotify:track:1ZEOIhSn6BKErV59bIgn76",
+        "id": "1ZEOIhSn6BKErV59bIgn76",
+        "name": "California Dreamin'",
+        "artist": "The Mamas & The Papas",
+        "artistId": "1bs7HoMkSyQwcobCpE9KpN"
+      },
+      {
+        "uri": "spotify:track:3G0EALIIp5DAeIERxXBHmo",
+        "id": "3G0EALIIp5DAeIERxXBHmo",
+        "name": "Waterloo Sunset",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:19PyKZXnnCvousOTU1Mwfi",
+        "id": "19PyKZXnnCvousOTU1Mwfi",
+        "name": "Turn! Turn! Turn!",
+        "artist": "The Byrds",
+        "artistId": "1PCZpxHJz7WAMF8EEq8bfc"
+      },
+      {
+        "uri": "spotify:track:63T7DJ1AFDD6Bn8VzG6JE8",
+        "id": "63T7DJ1AFDD6Bn8VzG6JE8",
+        "name": "Paint It, Black",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:0mwr3py9MZIOdvOrI31h6r",
+        "id": "0mwr3py9MZIOdvOrI31h6r",
+        "name": "California Girls",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:505Pd7CPHoewIE3Io2EpWd",
+        "id": "505Pd7CPHoewIE3Io2EpWd",
+        "name": "Catch the Wind",
+        "artist": "Donovan",
+        "artistId": "6vLlQYujOujIrm7zAKzEdG"
+      },
+      {
+        "uri": "spotify:track:5Q2Im8o4RthlAMkvUMYwGj",
+        "id": "5Q2Im8o4RthlAMkvUMYwGj",
+        "name": "Love Street",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:70bM9VdXVThMYOZixOFpJE",
+        "id": "70bM9VdXVThMYOZixOFpJE",
+        "name": "Look Through Any Window",
+        "artist": "The Hollies",
+        "artistId": "6waa8mKu91GjzD4NlONlNJ"
+      },
+      {
+        "uri": "spotify:track:7uEcCGtM1FBBGIhPozhJjv",
+        "id": "7uEcCGtM1FBBGIhPozhJjv",
+        "name": "Daydream Believer",
+        "artist": "The Monkees",
+        "artistId": "320EPCSEezHt1rtbfwH6Ck"
+      },
+      {
+        "uri": "spotify:track:6EOKwO6WaLal58MSsi6U4W",
+        "id": "6EOKwO6WaLal58MSsi6U4W",
+        "name": "Eleanor Rigby",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:0Q1perOt9SEwRUp6cHglrC",
+        "id": "0Q1perOt9SEwRUp6cHglrC",
+        "name": "Midnight Confessions",
+        "artist": "The Grass Roots",
+        "artistId": "2IU5UBup85LmAXh5U36DeC"
+      },
+      {
+        "uri": "spotify:track:4zZBHLJFzvNTAPpEq8aAFq",
+        "id": "4zZBHLJFzvNTAPpEq8aAFq",
+        "name": "I Saw Her Again",
+        "artist": "The Mamas & The Papas",
+        "artistId": "1bs7HoMkSyQwcobCpE9KpN"
+      },
+      {
+        "uri": "spotify:track:2ECReVEeiSQk8zpC9TRAwx",
+        "id": "2ECReVEeiSQk8zpC9TRAwx",
+        "name": "A Whiter Shade of Pale - 2007 Remaster",
+        "artist": "Procol Harum",
+        "artistId": "0GbqW5TJr7n4is453VOY4C"
+      },
+      {
+        "uri": "spotify:track:1H7gMYGykdtwZOV6s1N0by",
+        "id": "1H7gMYGykdtwZOV6s1N0by",
+        "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:123RhEzztpTieeEd13NexC",
+        "id": "123RhEzztpTieeEd13NexC",
+        "name": "Pictures Of Lily",
+        "artist": "The Who",
+        "artistId": "67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "uri": "spotify:track:7pLXlJltmvA6Rq3tNWx0bj",
+        "id": "7pLXlJltmvA6Rq3tNWx0bj",
+        "name": "Time of the Season",
+        "artist": "The Zombies",
+        "artistId": "2jgPkn6LuUazBoBk6vvjh5"
+      },
+      {
+        "uri": "spotify:track:5rUwnfuvEebahvFInZB8mC",
+        "id": "5rUwnfuvEebahvFInZB8mC",
+        "name": "As Tears Go By - (Original Single Mono Version)",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:4HeznvZhuaqT4TAUNQAZOT",
+        "id": "4HeznvZhuaqT4TAUNQAZOT",
+        "name": "Surfer Girl",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:3XvACX6sYu4bml5JdxGIaN",
+        "id": "3XvACX6sYu4bml5JdxGIaN",
+        "name": "Windy",
+        "artist": "The Association",
+        "artistId": "2kuNswDC82PL9xRbfaZJaS"
+      },
+      {
+        "uri": "spotify:track:00cXVWYtUXL9OVcwbA2UiD",
+        "id": "00cXVWYtUXL9OVcwbA2UiD",
+        "name": "Dedicated Follower of Fashion",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:1h04XMpzGzmAudoI6VHBgA",
+        "id": "1h04XMpzGzmAudoI6VHBgA",
+        "name": "Penny Lane - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:3bWGaqVeYKMlLss40mPgNn",
+        "id": "3bWGaqVeYKMlLss40mPgNn",
+        "name": "Hello, I Love You",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:3c06k9x6MHHdPQi3ix68yF",
+        "id": "3c06k9x6MHHdPQi3ix68yF",
+        "name": "Daydream",
+        "artist": "The Lovin' Spoonful",
+        "artistId": "7CCn4PFRRRZF127jtCBAUe"
+      },
+      {
+        "uri": "spotify:track:3l1YVg3uZMYbi5mROMRWRY",
+        "id": "3l1YVg3uZMYbi5mROMRWRY",
+        "name": "Holly Holy",
+        "artist": "Neil Diamond",
+        "artistId": "7mEIug7XUlQHikrFxjTWes"
+      },
+      {
+        "uri": "spotify:track:1yexhSDARSLVvRCBU3wDAm",
+        "id": "1yexhSDARSLVvRCBU3wDAm",
+        "name": "My Back Pages",
+        "artist": "The Byrds",
+        "artistId": "1PCZpxHJz7WAMF8EEq8bfc"
+      },
+      {
+        "uri": "spotify:track:0or66mTUdzoj6FiJmbZTw0",
+        "id": "0or66mTUdzoj6FiJmbZTw0",
+        "name": "19th Nervous Breakdown - Mono",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:62fX8EW16l8St2yL8rMer9",
+        "id": "62fX8EW16l8St2yL8rMer9",
+        "name": "In My Room - Remastered",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:1CSLeVCXmetBh8IkTPMFdL",
+        "id": "1CSLeVCXmetBh8IkTPMFdL",
+        "name": "I'm a Believer",
+        "artist": "The Monkees",
+        "artistId": "320EPCSEezHt1rtbfwH6Ck"
+      },
+      {
+        "uri": "spotify:track:0KpTFH1SzexN8SGc0GPILC",
+        "id": "0KpTFH1SzexN8SGc0GPILC",
+        "name": "Don't Let Me Be Misunderstood",
+        "artist": "The Animals",
+        "artistId": "3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      {
+        "uri": "spotify:track:5wLkhxwU7B9DNglfZAIrQ8",
+        "id": "5wLkhxwU7B9DNglfZAIrQ8",
+        "name": "Lucy In The Sky With Diamonds",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:7Ko8eQ58gmHF8m3drHGUZT",
+        "id": "7Ko8eQ58gmHF8m3drHGUZT",
+        "name": "She'd Rather Be With Me",
+        "artist": "The Turtles",
+        "artistId": "2VIoWte1HPDbZ2WqHd2La7"
+      },
+      {
+        "uri": "spotify:track:794fEMvS4YXOcVSrC5I2vy",
+        "id": "794fEMvS4YXOcVSrC5I2vy",
+        "name": "Carrie Anne",
+        "artist": "The Hollies",
+        "artistId": "6waa8mKu91GjzD4NlONlNJ"
+      },
+      {
+        "uri": "spotify:track:7tJQ4Ekp2vN3NlI3vJJW3v",
+        "id": "7tJQ4Ekp2vN3NlI3vJJW3v",
+        "name": "I Want You",
+        "artist": "Bob Dylan",
+        "artistId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      {
+        "uri": "spotify:track:51jnsY9d9kPv1sGw82L6Fe",
+        "id": "51jnsY9d9kPv1sGw82L6Fe",
+        "name": "Street Fighting Man",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:3mXexrmtPJ1KdWN37rYePx",
+        "id": "3mXexrmtPJ1KdWN37rYePx",
+        "name": "I Get Around",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:4EQL3I68WEw20icaY5y6Cy",
+        "id": "4EQL3I68WEw20icaY5y6Cy",
+        "name": "Happy Jack",
+        "artist": "The Who",
+        "artistId": "67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "uri": "spotify:track:5KGLcZLBCAqdPP6sa5zLYs",
+        "id": "5KGLcZLBCAqdPP6sa5zLYs",
+        "name": "Revolution",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:6byAvzG3SGPMfzZk29kcK4",
+        "id": "6byAvzG3SGPMfzZk29kcK4",
+        "name": "Let’s Live For Today",
+        "artist": "The Grass Roots",
+        "artistId": "2IU5UBup85LmAXh5U36DeC"
+      },
+      {
+        "uri": "spotify:track:0gWvVB4bGvADocoPMEDy3K",
+        "id": "0gWvVB4bGvADocoPMEDy3K",
+        "name": "The Crystal Ship",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:52HAHV1j93s5B8GoTNI7DJ",
+        "id": "52HAHV1j93s5B8GoTNI7DJ",
+        "name": "Oh, Pretty Woman",
+        "artist": "Roy Orbison",
+        "artistId": "0JDkhL4rjiPNEp92jAgJnS"
+      },
+      {
+        "uri": "spotify:track:4pbG9SUmWIvsROVLF0zF9s",
+        "id": "4pbG9SUmWIvsROVLF0zF9s",
+        "name": "I Want To Hold Your Hand - Remastered 2015",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:2Y1fwTTPqg5Pfxr3Q9stMu",
+        "id": "2Y1fwTTPqg5Pfxr3Q9stMu",
+        "name": "Dead End Street",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:3PFOfOdzObTrsIA7pTkJWN",
+        "id": "3PFOfOdzObTrsIA7pTkJWN",
+        "name": "So You Want to Be a Rock 'N' Roll Star",
+        "artist": "The Byrds",
+        "artistId": "1PCZpxHJz7WAMF8EEq8bfc"
+      },
+      {
+        "uri": "spotify:track:78OmsgtUu4qsSvo6I7J2SN",
+        "id": "78OmsgtUu4qsSvo6I7J2SN",
+        "name": "Caroline, No",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:4Xl2PrS3DJqqSKXCo6Uhv9",
+        "id": "4Xl2PrS3DJqqSKXCo6Uhv9",
+        "name": "Homeward Bound",
+        "artist": "Simon & Garfunkel",
+        "artistId": "70cRZdQywnSFp9pnc2WTCE"
+      },
+      {
+        "uri": "spotify:track:29b2b96jozyD9GPCkOrVLs",
+        "id": "29b2b96jozyD9GPCkOrVLs",
+        "name": "Day Tripper - Remastered 2015",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:4mn2kNTqiGLwaUR8JdhJ1l",
+        "id": "4mn2kNTqiGLwaUR8JdhJ1l",
+        "name": "House of the Rising Sun",
+        "artist": "The Animals",
+        "artistId": "3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      {
+        "uri": "spotify:track:4xVuV21kQI5QrklMMizvIO",
+        "id": "4xVuV21kQI5QrklMMizvIO",
+        "name": "Bus Stop",
+        "artist": "The Hollies",
+        "artistId": "6waa8mKu91GjzD4NlONlNJ"
+      },
+      {
+        "uri": "spotify:track:6EdSN1iGtLPhcz43QDRkdK",
+        "id": "6EdSN1iGtLPhcz43QDRkdK",
+        "name": "Help!",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:2EMmHEhCZSMMEM85HTFJvj",
+        "id": "2EMmHEhCZSMMEM85HTFJvj",
+        "name": "My Generation",
+        "artist": "The Who",
+        "artistId": "67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "uri": "spotify:track:3dXUhi35uNdJ1eYewv1XBK",
+        "id": "3dXUhi35uNdJ1eYewv1XBK",
+        "name": "Monday, Monday",
+        "artist": "The Mamas & The Papas",
+        "artistId": "1bs7HoMkSyQwcobCpE9KpN"
+      },
+      {
+        "uri": "spotify:track:44xykY61s1aKsgf40A5cyI",
+        "id": "44xykY61s1aKsgf40A5cyI",
+        "name": "Mother's Little Helper",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:72fAewq2UVWSf3RjtqICdS",
+        "id": "72fAewq2UVWSf3RjtqICdS",
+        "name": "Sloop John B",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:5uvosCdMlFdTXhoazkTI5R",
+        "id": "5uvosCdMlFdTXhoazkTI5R",
+        "name": "Light My Fire",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:5J2CHimS7dWYMImCHkEFaJ",
+        "id": "5J2CHimS7dWYMImCHkEFaJ",
+        "name": "A Hard Day's Night - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:6tZdL3Zp8JgrfDbsSeSV1S",
+        "id": "6tZdL3Zp8JgrfDbsSeSV1S",
+        "name": "You Really Got Me",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:2HCaIYjkvWSZzaSKUoOh3d",
+        "id": "2HCaIYjkvWSZzaSKUoOh3d",
+        "name": "Mr. Tambourine Man",
+        "artist": "The Byrds",
+        "artistId": "1PCZpxHJz7WAMF8EEq8bfc"
+      },
+      {
+        "uri": "spotify:track:1QLr0zOu6fv5hLEHOwdr21",
+        "id": "1QLr0zOu6fv5hLEHOwdr21",
+        "name": "Let's Spend The Night Together",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:1Umw3vhysHBodpBFpFsVgK",
+        "id": "1Umw3vhysHBodpBFpFsVgK",
+        "name": "God Only Knows",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:6iKSKHgjyeDhD8iisd4PLL",
+        "id": "6iKSKHgjyeDhD8iisd4PLL",
+        "name": "Mrs. Robinson",
+        "artist": "Simon & Garfunkel",
+        "artistId": "70cRZdQywnSFp9pnc2WTCE"
+      },
+      {
+        "uri": "spotify:track:2EqlS6tkEnglzr7tkKAAYD",
+        "id": "2EqlS6tkEnglzr7tkKAAYD",
+        "name": "Come Together - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:6Y0ed41KYLRnJJyYGGaDgY",
+        "id": "6Y0ed41KYLRnJJyYGGaDgY",
+        "name": "We've Gotta Get out of This Place",
+        "artist": "The Animals",
+        "artistId": "3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      {
+        "uri": "spotify:track:7CZiDzGVjUssMSOXrDNYHL",
+        "id": "7CZiDzGVjUssMSOXrDNYHL",
+        "name": "Ticket To Ride - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:75zMKn5euxQdlkZgu4P42J",
+        "id": "75zMKn5euxQdlkZgu4P42J",
+        "name": "Sympathy For The Devil",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:1dsggNRLTHQlYSyMQ4iLn2",
+        "id": "1dsggNRLTHQlYSyMQ4iLn2",
+        "name": "Heroes And Villains",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:64SFBGTQvXgEHds3F01rpc",
+        "id": "64SFBGTQvXgEHds3F01rpc",
+        "name": "I Can See For Miles",
+        "artist": "The Who",
+        "artistId": "67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "uri": "spotify:track:4Tjs8b6jL1s18sjURJtswp",
+        "id": "4Tjs8b6jL1s18sjURJtswp",
+        "name": "Lola (2020 Stereo Remaster)",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:1uBsu3PbD2909UBIfEMLvK",
+        "id": "1uBsu3PbD2909UBIfEMLvK",
+        "name": "Jumpin' Jack Flash",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:3YfS47QufnLDFA71FUsgCM",
+        "id": "3YfS47QufnLDFA71FUsgCM",
+        "name": "The Sound of Silence",
+        "artist": "Simon & Garfunkel",
+        "artistId": "70cRZdQywnSFp9pnc2WTCE"
+      },
+      {
+        "uri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+        "id": "7iN1s7xHE4ifF5povM6A48",
+        "name": "Let It Be - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:2ooZajrDL4Com6ZUW736le",
+        "id": "2ooZajrDL4Com6ZUW736le",
+        "name": "He Ain't Heavy He's My Brother - 2003 Remaster",
+        "artist": "The Hollies",
+        "artistId": "6waa8mKu91GjzD4NlONlNJ"
+      },
+      {
+        "uri": "spotify:track:1eT2CjXwFXNx6oY5ydvzKU",
+        "id": "1eT2CjXwFXNx6oY5ydvzKU",
+        "name": "Hey Jude",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:6LbbHFEajG9e4m0G3L47c4",
+        "id": "6LbbHFEajG9e4m0G3L47c4",
+        "name": "Pinball Wizard",
+        "artist": "The Who",
+        "artistId": "67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "uri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9",
+        "id": "6l8EbYRtQMgKOyc1gcDHF9",
+        "name": "Bridge Over Troubled Water",
+        "artist": "Simon & Garfunkel",
+        "artistId": "70cRZdQywnSFp9pnc2WTCE"
+      },
+      {
+        "uri": "spotify:track:14XWXWv5FoCbFzLksawpEe",
+        "id": "14XWXWv5FoCbFzLksawpEe",
+        "name": "Riders on the Storm",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:6RNl62Wsy7j0y4Fa9oXQSC",
+        "id": "6RNl62Wsy7j0y4Fa9oXQSC",
+        "name": "Everybody's Talkin' - 1989 Remastered",
+        "artist": "Harry Nilsson",
+        "artistId": "3RTzAwFprBqiskp550eSJX"
+      },
+      {
+        "uri": "spotify:track:6C4iMi6YSLjmZ8GFqEsrby",
+        "id": "6C4iMi6YSLjmZ8GFqEsrby",
+        "name": "Mrs Brown You've Got a Lovely Daughter - 1997 Remaster",
+        "artist": "Herman's Hermits",
+        "artistId": "48YxSlb23RAaCd4RyHcV9V"
+      },
+      {
+        "uri": "spotify:track:1TcS2xtUlCKVlwZGuveYo6",
+        "id": "1TcS2xtUlCKVlwZGuveYo6",
+        "name": "I'm A Believer",
+        "artist": "Neil Diamond",
+        "artistId": "7mEIug7XUlQHikrFxjTWes"
+      },
+      {
+        "uri": "spotify:track:6AhZsDqXmWeRtta9SefASM",
+        "id": "6AhZsDqXmWeRtta9SefASM",
+        "name": "This Guy's in Love with You",
+        "artist": "Herb Alpert",
+        "artistId": "1PqdKx88nAgPolRy079lMl"
+      },
+      {
+        "uri": "spotify:track:2zrtp9krR2IyT9mi2PaIBC",
+        "id": "2zrtp9krR2IyT9mi2PaIBC",
+        "name": "I Wonder",
+        "artist": "Rodríguez",
+        "artistId": "5PrHzxc3kFm4hIrGNmelpX"
+      },
+      {
+        "uri": "spotify:track:17nOJOcPbcl4sKzM2yyYDp",
+        "id": "17nOJOcPbcl4sKzM2yyYDp",
+        "name": "Sugar Man",
+        "artist": "Rodríguez",
+        "artistId": "5PrHzxc3kFm4hIrGNmelpX"
+      },
+      {
+        "uri": "spotify:track:1cXXHKH2kMDmtOEK73q6sf",
+        "id": "1cXXHKH2kMDmtOEK73q6sf",
+        "name": "I Think Of You",
+        "artist": "Rodríguez",
+        "artistId": "5PrHzxc3kFm4hIrGNmelpX"
+      },
+      {
+        "uri": "spotify:track:2Xn7NadvZ56D0B2D7x2CSL",
+        "id": "2Xn7NadvZ56D0B2D7x2CSL",
+        "name": "Crucify Your Mind",
+        "artist": "Rodríguez",
+        "artistId": "5PrHzxc3kFm4hIrGNmelpX"
+      },
+      {
+        "uri": "spotify:track:739sLmfUkVFoyPtb0C3263",
+        "id": "739sLmfUkVFoyPtb0C3263",
+        "name": "Girl from the North Country",
+        "artist": "Bob Dylan",
+        "artistId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      {
+        "uri": "spotify:track:7ny2ATvjtKszCpLpfsGnVQ",
+        "id": "7ny2ATvjtKszCpLpfsGnVQ",
+        "name": "A Hard Rain's A-Gonna Fall",
+        "artist": "Bob Dylan",
+        "artistId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      {
+        "uri": "spotify:track:150Pg3gbysQH15uBf8ltj7",
+        "id": "150Pg3gbysQH15uBf8ltj7",
+        "name": "Flowers In The Rain - 2007 Remaster",
+        "artist": "The Move",
+        "artistId": "2BLpGstUHxDc6vHfBEiaXm"
+      },
+      {
+        "uri": "spotify:track:5ckd7dqUqpNYSGevyb5yDv",
+        "id": "5ckd7dqUqpNYSGevyb5yDv",
+        "name": "Maybe the People Would Be the Times or Between Clark and Hilldale - 2015 Remaster",
+        "artist": "Love",
+        "artistId": "3Q6OOkfssqoMSTtl11J5Uk"
+      },
+      {
+        "uri": "spotify:track:1zW2csx1vVJrKfvDrFQNVt",
+        "id": "1zW2csx1vVJrKfvDrFQNVt",
+        "name": "Jump in the Line",
+        "artist": "Harry Belafonte",
+        "artistId": "6Tw1ktF4xMmzaLLbe98I2z"
+      },
+      {
+        "uri": "spotify:track:3NfxSdJnVdon1axzloJgba",
+        "id": "3NfxSdJnVdon1axzloJgba",
+        "name": "I Say a Little Prayer",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:7ngRS53kqxLcEt9Pythc5d",
+        "id": "7ngRS53kqxLcEt9Pythc5d",
+        "name": "You Don't Own Me",
+        "artist": "Lesley Gore",
+        "artistId": "08b2PA6eFyugsWAk41eQKZ"
+      },
+      {
+        "uri": "spotify:track:7DsQgIwg23u9gooCxkRTu3",
+        "id": "7DsQgIwg23u9gooCxkRTu3",
+        "name": "A Whiter Shade of Pale - Original Single Version",
+        "artist": "Procol Harum",
+        "artistId": "0GbqW5TJr7n4is453VOY4C"
+      },
+      {
+        "uri": "spotify:track:11607FzqoipskTsXrwEHnJ",
+        "id": "11607FzqoipskTsXrwEHnJ",
+        "name": "Sunday Morning",
+        "artist": "The Velvet Underground",
+        "artistId": "1nJvji2KIlWSseXRSlNYsC"
+      },
+      {
+        "uri": "spotify:track:72Z17vmmeQKAg8bptWvpVG",
+        "id": "72Z17vmmeQKAg8bptWvpVG",
+        "name": "Space Oddity - 2015 Remaster",
+        "artist": "David Bowie",
+        "artistId": "0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      {
+        "uri": "spotify:track:2S6XOQqWqUBIySUU00vMru",
+        "id": "2S6XOQqWqUBIySUU00vMru",
+        "name": "Beggin'",
+        "artist": "The Four Seasons",
+        "artistId": "4uHsvbEomrfo1KXllQ9K3s"
+      },
+      {
+        "uri": "spotify:track:1qRA5BS78u3gME0loMl9AA",
+        "id": "1qRA5BS78u3gME0loMl9AA",
+        "name": "For What It's Worth",
+        "artist": "Buffalo Springfield",
+        "artistId": "3eskO5m0H4yiF64vRySBjr"
+      },
+      {
+        "uri": "spotify:track:3TlIt0ReIxPsVZcOEivT5U",
+        "id": "3TlIt0ReIxPsVZcOEivT5U",
+        "name": "It's Not Unusual",
+        "artist": "Tom Jones",
+        "artistId": "1T0wRBO0CK0vK8ouUMqEl5"
+      },
+      {
+        "uri": "spotify:track:3uCkIqD0VzQUijbs8WIizs",
+        "id": "3uCkIqD0VzQUijbs8WIizs",
+        "name": "These Days",
+        "artist": "Nico",
+        "artistId": "0IwlY33zbBXN7zlS9DP2Cj"
+      },
+      {
+        "uri": "spotify:track:3NW1YMA8kfNVTzGJCGBS8m",
+        "id": "3NW1YMA8kfNVTzGJCGBS8m",
+        "name": "Both Sides Now",
+        "artist": "Joni Mitchell",
+        "artistId": "5hW4L92KnC6dX9t7tYM4Ve"
+      },
+      {
+        "uri": "spotify:track:4j2W1eM03mz5MVN5LvR7VH",
+        "id": "4j2W1eM03mz5MVN5LvR7VH",
+        "name": "These Boots Are Made for Walkin'",
+        "artist": "Nancy Sinatra",
+        "artistId": "3IZrrNonYELubLPJmqOci2"
+      },
+      {
+        "uri": "spotify:track:1hvKYV2SkmX1D2AeRCDxLH",
+        "id": "1hvKYV2SkmX1D2AeRCDxLH",
+        "name": "Bang Bang (My Baby Shot Me Down)",
+        "artist": "Nancy Sinatra",
+        "artistId": "3IZrrNonYELubLPJmqOci2"
+      },
+      {
+        "uri": "spotify:track:31A3oqQxDLdG9HRx45z62d",
+        "id": "31A3oqQxDLdG9HRx45z62d",
+        "name": "I Only Want To Be With You",
+        "artist": "Dusty Springfield",
+        "artistId": "5zaXYwewAXedKNCff45U5l"
+      },
+      {
+        "uri": "spotify:track:6RJK553YhstRzyKA4mug09",
+        "id": "6RJK553YhstRzyKA4mug09",
+        "name": "The Letter",
+        "artist": "The Box Tops",
+        "artistId": "3KGQvnOoqUHi3KxKQMZtXr"
+      },
+      {
+        "uri": "spotify:track:7v3zsFlSU28kiv3sqRAPNl",
+        "id": "7v3zsFlSU28kiv3sqRAPNl",
+        "name": "Moi je joue",
+        "artist": "Brigitte Bardot",
+        "artistId": "1q24xIsAD7JZuVkTLR9TJy"
+      },
+      {
+        "uri": "spotify:track:3G7tRC24Uh09Hmp1KZ7LQ2",
+        "id": "3G7tRC24Uh09Hmp1KZ7LQ2",
+        "name": "I'm a Believer - 2006 Remaster",
+        "artist": "The Monkees",
+        "artistId": "320EPCSEezHt1rtbfwH6Ck"
+      },
+      {
+        "uri": "spotify:track:76ICmoJ4PcoMWoooaTxnQs",
+        "id": "76ICmoJ4PcoMWoooaTxnQs",
+        "name": "Land of 1000 Dances",
+        "artist": "Wilson Pickett",
+        "artistId": "0N5PyKJzS3M1XNlaCL7bbE"
+      },
+      {
+        "uri": "spotify:track:5UrDFY2cYc7NMoheN4syct",
+        "id": "5UrDFY2cYc7NMoheN4syct",
+        "name": "Cupid",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:0GVxSbigOiKlGfI30Uw00X",
+        "id": "0GVxSbigOiKlGfI30Uw00X",
+        "name": "When a Man Loves a Woman",
+        "artist": "Percy Sledge",
+        "artistId": "3rRmDmzPcAFwcUDvG5gBqO"
+      },
+      {
+        "uri": "spotify:track:5SUlhldQJtOhUr2GzH5RI7",
+        "id": "5SUlhldQJtOhUr2GzH5RI7",
+        "name": "Nowhere Man - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:4BVE5tIIpYabZcYCbephNW",
+        "id": "4BVE5tIIpYabZcYCbephNW",
+        "name": "Touch Me",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:2K2M0TcglCRLLpFOzKeFZA",
+        "id": "2K2M0TcglCRLLpFOzKeFZA",
+        "name": "Sunshine Of Your Love",
+        "artist": "Cream",
+        "artistId": "74oJ4qxwOZvX6oSsu1DGnw"
+      },
+      {
+        "uri": "spotify:track:4RGxUjaCmVtD30pIhtEi7w",
+        "id": "4RGxUjaCmVtD30pIhtEi7w",
+        "name": "Sunshine Superman",
+        "artist": "Donovan",
+        "artistId": "6vLlQYujOujIrm7zAKzEdG"
+      },
+      {
+        "uri": "spotify:track:08XKCwMrwEAyyfTCTGkkhg",
+        "id": "08XKCwMrwEAyyfTCTGkkhg",
+        "name": "With A Little Help From My Friends - 2017 Mix",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:7jGzYUZ2Bgg8BDfYlQRfn8",
+        "id": "7jGzYUZ2Bgg8BDfYlQRfn8",
+        "name": "Wild Thing",
+        "artist": "The Troggs",
+        "artistId": "57xdnSVt4ahJCIXYLieQ25"
+      },
+      {
+        "uri": "spotify:track:7LNiAjyg9P2GKINTtN6Yt8",
+        "id": "7LNiAjyg9P2GKINTtN6Yt8",
+        "name": "We Can Work It Out - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:2iIRl5jf9beA2ExZWzn2nt",
+        "id": "2iIRl5jf9beA2ExZWzn2nt",
+        "name": "Lucy In The Sky With Diamonds - 2017 Mix",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:1xKQbqQtQWrtQS47fUJBtl",
+        "id": "1xKQbqQtQWrtQS47fUJBtl",
+        "name": "Piece of My Heart",
+        "artist": "Big Brother & The Holding Company",
+        "artistId": "4J69yWrKwWJgjv3DKTZcGo"
+      },
+      {
+        "uri": "spotify:track:3L60Vu9qmY6fg2QroRIxgi",
+        "id": "3L60Vu9qmY6fg2QroRIxgi",
+        "name": "Cry Baby",
+        "artist": "Janis Joplin",
+        "artistId": "4NgfOZCL9Ml67xzM0xzIvC"
+      },
+      {
+        "uri": "spotify:track:4DWFSrNnZXow1aB96gByho",
+        "id": "4DWFSrNnZXow1aB96gByho",
+        "name": "Elenore",
+        "artist": "The Turtles",
+        "artistId": "2VIoWte1HPDbZ2WqHd2La7"
+      },
+      {
+        "uri": "spotify:track:5lmGgOaixbwKHtpTzjJoqx",
+        "id": "5lmGgOaixbwKHtpTzjJoqx",
+        "name": "Under My Thumb",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:5t9KYe0Fhd5cW6UYT4qP8f",
+        "id": "5t9KYe0Fhd5cW6UYT4qP8f",
+        "name": "Good Vibrations - Remastered 2001",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:1mfV2kv9RwFKVI8kEQlmOJ",
+        "id": "1mfV2kv9RwFKVI8kEQlmOJ",
+        "name": "All Day and All of the Night",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:18qhv7DD1sEpgWffovGnhn",
+        "id": "18qhv7DD1sEpgWffovGnhn",
+        "name": "A Day In The Life - 2017 Mix",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:0HZlND4giwzgolBpaNIRGV",
+        "id": "0HZlND4giwzgolBpaNIRGV",
+        "name": "Aquarius/Let The Sunshine In (The Flesh Failures) - From the Musical \"Hair\"",
+        "artist": "The 5th Dimension",
+        "artistId": "1UUYAQ9LiRsZF0ZukQNWXM"
+      },
+      {
+        "uri": "spotify:track:7t20AEMjEBgO2V4VCt2VRQ",
+        "id": "7t20AEMjEBgO2V4VCt2VRQ",
+        "name": "Can't Find My Way Home",
+        "artist": "Blind Faith",
+        "artistId": "5GUVj2b1lJ4DolQyHlzyaO"
+      },
+      {
+        "uri": "spotify:track:3Xy16SYnhBiSBL5yUXaHG1",
+        "id": "3Xy16SYnhBiSBL5yUXaHG1",
+        "name": "Buzzin' Fly",
+        "artist": "Tim Buckley",
+        "artistId": "6zHRqvws8dVeqL8D31ponr"
+      },
+      {
+        "uri": "spotify:track:2G2YzndIA6jeWFPBXhUjh5",
+        "id": "2G2YzndIA6jeWFPBXhUjh5",
+        "name": "Be My Baby",
+        "artist": "The Ronettes",
+        "artistId": "7CyeXFnOrfC1N6z4naIpgo"
+      },
+      {
+        "uri": "spotify:track:4D0BiMiLN6z2x7Tq9BcqoT",
+        "id": "4D0BiMiLN6z2x7Tq9BcqoT",
+        "name": "You Really Got Me",
+        "artist": "The Kinks",
+        "artistId": "1SQRv42e4PjEYfPhS0Tk9E"
+      },
+      {
+        "uri": "spotify:track:1GLmaPfulP0BrfijohQpN5",
+        "id": "1GLmaPfulP0BrfijohQpN5",
+        "name": "Don't Worry Baby - Remastered 2001",
+        "artist": "The Beach Boys",
+        "artistId": "3oDbviiivRWhXwIE8hxkVV"
+      },
+      {
+        "uri": "spotify:track:78Az0Z1vNJgqv9QSB0ULLV",
+        "id": "78Az0Z1vNJgqv9QSB0ULLV",
+        "name": "Paint It Black",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:7fSGbZLhWlAiCC3HDPAULu",
+        "id": "7fSGbZLhWlAiCC3HDPAULu",
+        "name": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
+        "artist": "The Rolling Stones",
+        "artistId": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "uri": "spotify:track:2nwCO1PqpvyoFIvq3Vrj8N",
+        "id": "2nwCO1PqpvyoFIvq3Vrj8N",
+        "name": "These Boots Are Made For Walkin'",
+        "artist": "Nancy Sinatra",
+        "artistId": "3IZrrNonYELubLPJmqOci2"
+      },
+      {
+        "uri": "spotify:track:66ujRcQB3xjilVohGyvTKM",
+        "id": "66ujRcQB3xjilVohGyvTKM",
+        "name": "San Francisco (Be Sure to Wear Flowers in Your Hair)",
+        "artist": "Scott McKenzie",
+        "artistId": "7d7AZ3CQC457bFhK0wHpSO"
+      },
+      {
+        "uri": "spotify:track:7I2lPuuiOkpKtZlhr4zUpT",
+        "id": "7I2lPuuiOkpKtZlhr4zUpT",
+        "name": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "artistId": "3IYUhFvPQItj6xySrBmZkd"
+      },
+      {
+        "uri": "spotify:track:3dXR1AB2sg2KAZKH2fwHEx",
+        "id": "3dXR1AB2sg2KAZKH2fwHEx",
+        "name": "California Dreamin'",
+        "artist": "The Mamas & The Papas",
+        "artistId": "1bs7HoMkSyQwcobCpE9KpN"
+      },
+      {
+        "uri": "spotify:track:0Jl5bIEve3A4axcjY3EgDZ",
+        "id": "0Jl5bIEve3A4axcjY3EgDZ",
+        "name": "Feelin' Alright",
+        "artist": "Joe Cocker",
+        "artistId": "3pFCERyEiP5xeN2EsPXhjI"
+      },
+      {
+        "uri": "spotify:track:2aoo2jlRnM3A0NyLQqMN2f",
+        "id": "2aoo2jlRnM3A0NyLQqMN2f",
+        "name": "All Along the Watchtower",
+        "artist": "Jimi Hendrix",
+        "artistId": "776Uo845nYHJpNaStv1Ds4"
+      },
+      {
+        "uri": "spotify:track:0hckaViDtkJj6CWQYo2DUM",
+        "id": "0hckaViDtkJj6CWQYo2DUM",
+        "name": "Somebody to Love - Stereo Version",
+        "artist": "Jefferson Airplane",
+        "artistId": "2qFr8w5sWUITRlzZ9kZotF"
+      },
+      {
+        "uri": "spotify:track:0LQhKGlQZrR6PRWLUFZfII",
+        "id": "0LQhKGlQZrR6PRWLUFZfII",
+        "name": "A Little Bit Me, a Little Bit You",
+        "artist": "The Monkees",
+        "artistId": "320EPCSEezHt1rtbfwH6Ck"
+      },
+      {
+        "uri": "spotify:track:5ZtfnXND8dgBljCTwuSunP",
+        "id": "5ZtfnXND8dgBljCTwuSunP",
+        "name": "We're Through",
+        "artist": "The Hollies",
+        "artistId": "6waa8mKu91GjzD4NlONlNJ"
+      },
+      {
+        "uri": "spotify:track:2sBb9M7giiWo2Jn3BVIM8f",
+        "id": "2sBb9M7giiWo2Jn3BVIM8f",
+        "name": "Last Train to Clarksville",
+        "artist": "The Monkees",
+        "artistId": "320EPCSEezHt1rtbfwH6Ck"
+      },
+      {
+        "uri": "spotify:track:1tfZtA15BfJHQTUy3dqTKC",
+        "id": "1tfZtA15BfJHQTUy3dqTKC",
+        "name": "Build Me Up Buttercup - Mono",
+        "artist": "The Foundations",
+        "artistId": "4GITZM5LCR2KcdlgEOrNLD"
+      },
+      {
+        "uri": "spotify:track:1V6NsADmSSEsb8zpGZMdup",
+        "id": "1V6NsADmSSEsb8zpGZMdup",
+        "name": "Something In The Air",
+        "artist": "Thunderclap Newman",
+        "artistId": "1USHlPahTZrCeJXS2v5pkF"
+      },
+      {
+        "uri": "spotify:track:4jkX1jLHZ3aVBmZxdsdxZC",
+        "id": "4jkX1jLHZ3aVBmZxdsdxZC",
+        "name": "You Don't Own Me",
+        "artist": "Lesley Gore",
+        "artistId": "08b2PA6eFyugsWAk41eQKZ"
+      },
+      {
+        "uri": "spotify:track:79DRfWneKWGuWUJE6kHg3b",
+        "id": "79DRfWneKWGuWUJE6kHg3b",
+        "name": "Femme Fatale",
+        "artist": "The Velvet Underground",
+        "artistId": "1nJvji2KIlWSseXRSlNYsC"
+      },
+      {
+        "uri": "spotify:track:7zefPyqfh1TheKCODAj3hv",
+        "id": "7zefPyqfh1TheKCODAj3hv",
+        "name": "Everybody's Talkin'",
+        "artist": "Harry Nilsson",
+        "artistId": "3RTzAwFprBqiskp550eSJX"
+      },
+      {
+        "uri": "spotify:track:3Xls4cNOwy01dtrNXb1inG",
+        "id": "3Xls4cNOwy01dtrNXb1inG",
+        "name": "White Room",
+        "artist": "Cream",
+        "artistId": "74oJ4qxwOZvX6oSsu1DGnw"
+      },
+      {
+        "uri": "spotify:track:2Xdc6qyaFBJZ8QW1KhpVci",
+        "id": "2Xdc6qyaFBJZ8QW1KhpVci",
+        "name": "Soul Kitchen",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:7mc2TP4Vzuyw2vNf1bLW9f",
+        "id": "7mc2TP4Vzuyw2vNf1bLW9f",
+        "name": "Twentieth Century Fox",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:0JNZGIavoUrdup1NsgJOQs",
+        "id": "0JNZGIavoUrdup1NsgJOQs",
+        "name": "Alabama Song (Whisky Bar)",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:03By6gD02qhtvIQiK8KidK",
+        "id": "03By6gD02qhtvIQiK8KidK",
+        "name": "Back Door Man",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:67HxeUADW4H3ERfaPW59ma",
+        "id": "67HxeUADW4H3ERfaPW59ma",
+        "name": "Love Me Two Times",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:0ja1dJM5gBTjk5U9wsMP9r",
+        "id": "0ja1dJM5gBTjk5U9wsMP9r",
+        "name": "Moonlight Drive",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:32bJv8V2Xgi5mtxdPcsi8B",
+        "id": "32bJv8V2Xgi5mtxdPcsi8B",
+        "name": "Spanish Caravan",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:5FlBGGwGuqYmqr0qeBWrxe",
+        "id": "5FlBGGwGuqYmqr0qeBWrxe",
+        "name": "Five to One",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:76b8ipYsNb9zPhliPfWqkn",
+        "id": "76b8ipYsNb9zPhliPfWqkn",
+        "name": "A House Is Not A Motel",
+        "artist": "Love",
+        "artistId": "3Q6OOkfssqoMSTtl11J5Uk"
+      },
+      {
+        "uri": "spotify:track:6IKh37gbbISnprWbmpFVDh",
+        "id": "6IKh37gbbISnprWbmpFVDh",
+        "name": "See Emily Play - 2011 Remastered Version",
+        "artist": "Pink Floyd",
+        "artistId": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      {
+        "uri": "spotify:track:3n1wTBzxeQmpLOC4Dp77b9",
+        "id": "3n1wTBzxeQmpLOC4Dp77b9",
+        "name": "I Feel Free",
+        "artist": "Cream",
+        "artistId": "74oJ4qxwOZvX6oSsu1DGnw"
+      },
+      {
+        "uri": "spotify:track:3k19pe06GkmxNsJw6woFYb",
+        "id": "3k19pe06GkmxNsJw6woFYb",
+        "name": "A Whiter Shade Of Pale",
+        "artist": "Procol Harum",
+        "artistId": "0GbqW5TJr7n4is453VOY4C"
+      },
+      {
+        "uri": "spotify:track:4vpeKl0vMGdAXpZiQB2Dtd",
+        "id": "4vpeKl0vMGdAXpZiQB2Dtd",
+        "name": "White Rabbit",
+        "artist": "Jefferson Airplane",
+        "artistId": "2qFr8w5sWUITRlzZ9kZotF"
+      },
+      {
+        "uri": "spotify:track:3wHirUEHpsV37oAUADsj5f",
+        "id": "3wHirUEHpsV37oAUADsj5f",
+        "name": "Mind Gardens",
+        "artist": "The Byrds",
+        "artistId": "1PCZpxHJz7WAMF8EEq8bfc"
+      },
+      {
+        "uri": "spotify:track:7pdmBld4yW3WIUkrxHyb5r",
+        "id": "7pdmBld4yW3WIUkrxHyb5r",
+        "name": "Northern Sky",
+        "artist": "Nick Drake",
+        "artistId": "5c3GLXai8YOMid29ZEuR9y"
+      },
+      {
+        "uri": "spotify:track:45WX2cfbL8bCIqv3rOq1G3",
+        "id": "45WX2cfbL8bCIqv3rOq1G3",
+        "name": "I'll Follow The Sun - Remastered 2009",
+        "artist": "The Beatles",
+        "artistId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "uri": "spotify:track:3D1Xnj2Q7oh7Vz3RH9fDvC",
+        "id": "3D1Xnj2Q7oh7Vz3RH9fDvC",
+        "name": "Nights In White Satin - Single Version",
+        "artist": "The Moody Blues",
+        "artistId": "5BcZ22XONcRoLhTbZRuME1"
+      },
+      {
+        "uri": "spotify:track:18ruAkNwQMPx8ldU2tEMZK",
+        "id": "18ruAkNwQMPx8ldU2tEMZK",
+        "name": "Flowers In The Rain",
+        "artist": "The Move",
+        "artistId": "2BLpGstUHxDc6vHfBEiaXm"
+      },
+      {
+        "uri": "spotify:track:3wAX3qn53iQUFE84hpfeen",
+        "id": "3wAX3qn53iQUFE84hpfeen",
+        "name": "Simple Twist of Fate",
+        "artist": "Bob Dylan",
+        "artistId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      {
+        "uri": "spotify:track:1jcPcDu2YawPfLhwjYnqK2",
+        "id": "1jcPcDu2YawPfLhwjYnqK2",
+        "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+        "artist": "Harry Nilsson",
+        "artistId": "3RTzAwFprBqiskp550eSJX"
+      },
+      {
+        "uri": "spotify:track:2hdeaGl9nT3UoQIgSqctHj",
+        "id": "2hdeaGl9nT3UoQIgSqctHj",
+        "name": "Indian Summer",
+        "artist": "The Doors",
+        "artistId": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "uri": "spotify:track:2ghkvWvqASoogzq4Y9zeF0",
+        "id": "2ghkvWvqASoogzq4Y9zeF0",
+        "name": "She's Not There",
+        "artist": "The Zombies",
+        "artistId": "2jgPkn6LuUazBoBk6vvjh5"
+      },
+      {
+        "uri": "spotify:track:2aC4dekmnklfC6edwh3Wda",
+        "id": "2aC4dekmnklfC6edwh3Wda",
+        "name": "Between the Devil and the Deep Blue Sea",
+        "artist": "George Harrison",
+        "artistId": "7FIoB5PHdrMZVC3q2HE5MS"
+      },
+      {
+        "uri": "spotify:track:6H3Wa6hWR9DRMzMSd4pZkT",
+        "id": "6H3Wa6hWR9DRMzMSd4pZkT",
+        "name": "Make Your Own Kind Of Music",
+        "artist": "Cass Elliot",
+        "artistId": "5jX7X3kRkfJTRqAdT7RcHk"
+      },
+      {
+        "uri": "spotify:track:0NWPxcsf5vdjdiFUI8NgkP",
+        "id": "0NWPxcsf5vdjdiFUI8NgkP",
+        "name": "Hey Joe",
+        "artist": "Jimi Hendrix",
+        "artistId": "776Uo845nYHJpNaStv1Ds4"
+      }
+    ],
+    "Best 60 Italia": [
+      {
+        "uri": "spotify:track:1N46SW28bpacvXmNYP6PTB",
+        "id": "1N46SW28bpacvXmNYP6PTB",
+        "name": "Acqua azzurra, acqua chiara",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:1tiB5Y6SCl4HndjF9DYmZn",
+        "id": "1tiB5Y6SCl4HndjF9DYmZn",
+        "name": "Balla Linda",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:7B09xj4jnG1763TWkVxazM",
+        "id": "7B09xj4jnG1763TWkVxazM",
+        "name": "Un'avventura",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:5CC74PrB8GxAtiaqKTmvUN",
+        "id": "5CC74PrB8GxAtiaqKTmvUN",
+        "name": "Per una lira",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:1iUzTcn9pnufQYnzPPpHiD",
+        "id": "1iUzTcn9pnufQYnzPPpHiD",
+        "name": "Nel cuore, nell'anima",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:4QpVKKajWSfL6aQVLULQkE",
+        "id": "4QpVKKajWSfL6aQVLULQkE",
+        "name": "Io vivrò senza te",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:6GIeJBvfw8dGOOj3egXlaF",
+        "id": "6GIeJBvfw8dGOOj3egXlaF",
+        "name": "Non è Francesca",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:4xq1trF0ztWPjtwlYkqAEw",
+        "id": "4xq1trF0ztWPjtwlYkqAEw",
+        "name": "Dieci ragazze",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:7BXF5kbYL63KB2vT6IBDiF",
+        "id": "7BXF5kbYL63KB2vT6IBDiF",
+        "name": "Era",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:6bZwl6QqsE2kVIIz91lRRy",
+        "id": "6bZwl6QqsE2kVIIz91lRRy",
+        "name": "7 e 40",
+        "artist": "Lucio Battisti",
+        "artistId": "2caOYPej26UoQOyFnzXW3G"
+      },
+      {
+        "uri": "spotify:track:18IHat7huwIdEQ9hhaKfDr",
+        "id": "18IHat7huwIdEQ9hhaKfDr",
+        "name": "Azzurro",
+        "artist": "Adriano Celentano",
+        "artistId": "1yq9UuPp5DIb5w6eswGbKV"
+      },
+      {
+        "uri": "spotify:track:11MoOaSoxLOvryOh6Ke5zK",
+        "id": "11MoOaSoxLOvryOh6Ke5zK",
+        "name": "Il Ragazzo Della Via Gluck",
+        "artist": "Adriano Celentano",
+        "artistId": "1yq9UuPp5DIb5w6eswGbKV"
+      },
+      {
+        "uri": "spotify:track:3rNQA02edZpYEsh8DbJ1jm",
+        "id": "3rNQA02edZpYEsh8DbJ1jm",
+        "name": "Una Carezza In Un Pugno - Remastered",
+        "artist": "Adriano Celentano",
+        "artistId": "1yq9UuPp5DIb5w6eswGbKV"
+      },
+      {
+        "uri": "spotify:track:6virNIvTC9sciwrjOGa4cv",
+        "id": "6virNIvTC9sciwrjOGa4cv",
+        "name": "Storia D'Amore",
+        "artist": "Adriano Celentano",
+        "artistId": "1yq9UuPp5DIb5w6eswGbKV"
+      },
+      {
+        "uri": "spotify:track:0HQf0bd3oSZei450iKuUFR",
+        "id": "0HQf0bd3oSZei450iKuUFR",
+        "name": "Prisencolinensinainciusol",
+        "artist": "Adriano Celentano",
+        "artistId": "1yq9UuPp5DIb5w6eswGbKV"
+      },
+      {
+        "uri": "spotify:track:2bYLru2w0NKtCDiFPgALFE",
+        "id": "2bYLru2w0NKtCDiFPgALFE",
+        "name": "Se telefonando",
+        "artist": "Mina",
+        "artistId": "3HL1CyOnDLFJo1Rr8YBlKy"
+      },
+      {
+        "uri": "spotify:track:6cHw1NBkbORc7VSPBfqwa1",
+        "id": "6cHw1NBkbORc7VSPBfqwa1",
+        "name": "Le mille bolle blu",
+        "artist": "Mina",
+        "artistId": "3HL1CyOnDLFJo1Rr8YBlKy"
+      },
+      {
+        "uri": "spotify:track:4LrFMFEu8tc8DKm4VXGnJd",
+        "id": "4LrFMFEu8tc8DKm4VXGnJd",
+        "name": "Città vuota",
+        "artist": "Mina",
+        "artistId": "3HL1CyOnDLFJo1Rr8YBlKy"
+      },
+      {
+        "uri": "spotify:track:4lUBOzU5WZQOtMa9knOi53",
+        "id": "4lUBOzU5WZQOtMa9knOi53",
+        "name": "E se domani",
+        "artist": "Mina",
+        "artistId": "3HL1CyOnDLFJo1Rr8YBlKy"
+      },
+      {
+        "uri": "spotify:track:7FePZzwBJx4Mt6XKbNspGE",
+        "id": "7FePZzwBJx4Mt6XKbNspGE",
+        "name": "Sono come tu mi vuoi",
+        "artist": "Mina",
+        "artistId": "3HL1CyOnDLFJo1Rr8YBlKy"
+      },
+      {
+        "uri": "spotify:track:37C6DyoMu75ViTiwqxV4bY",
+        "id": "37C6DyoMu75ViTiwqxV4bY",
+        "name": "Il cielo in una stanza",
+        "artist": "Gino Paoli",
+        "artistId": "2taCySpDIEEa2mvo2k7xkH"
+      },
+      {
+        "uri": "spotify:track:3DAFQyYYpTDEuChTS8eTU7",
+        "id": "3DAFQyYYpTDEuChTS8eTU7",
+        "name": "Sapore di sale",
+        "artist": "Gino Paoli",
+        "artistId": "2taCySpDIEEa2mvo2k7xkH"
+      },
+      {
+        "uri": "spotify:track:5gIFZiFLz4Uc90TqmcTvPd",
+        "id": "5gIFZiFLz4Uc90TqmcTvPd",
+        "name": "Che cosa c'è",
+        "artist": "Gino Paoli",
+        "artistId": "2taCySpDIEEa2mvo2k7xkH"
+      },
+      {
+        "uri": "spotify:track:2gmEnlP6D1LhpwwjUhKhxP",
+        "id": "2gmEnlP6D1LhpwwjUhKhxP",
+        "name": "Senza fine",
+        "artist": "Gino Paoli",
+        "artistId": "2taCySpDIEEa2mvo2k7xkH"
+      },
+      {
+        "uri": "spotify:track:4fwR5b66ud3xUxPEUSID8q",
+        "id": "4fwR5b66ud3xUxPEUSID8q",
+        "name": "Mi sono innamorato di te",
+        "artist": "Luigi Tenco",
+        "artistId": "4F9VFl80sWpvTfXwLJZbhK"
+      },
+      {
+        "uri": "spotify:track:3C9SUWHahPyh7IUCDleWlc",
+        "id": "3C9SUWHahPyh7IUCDleWlc",
+        "name": "Ciao Amore Ciao",
+        "artist": "Luigi Tenco",
+        "artistId": "4F9VFl80sWpvTfXwLJZbhK"
+      },
+      {
+        "uri": "spotify:track:6uh7Mg8FBL98cdnGtkGHIw",
+        "id": "6uh7Mg8FBL98cdnGtkGHIw",
+        "name": "La bambola",
+        "artist": "Patty Pravo",
+        "artistId": "2Yi5fknmHBqqKjHF6cXQyh"
+      },
+      {
+        "uri": "spotify:track:75XhQteMqUUHziG5qNggmI",
+        "id": "75XhQteMqUUHziG5qNggmI",
+        "name": "Ragazzo triste",
+        "artist": "Patty Pravo",
+        "artistId": "2Yi5fknmHBqqKjHF6cXQyh"
+      },
+      {
+        "uri": "spotify:track:5hFdwR38E8hXNEs1OH1bFA",
+        "id": "5hFdwR38E8hXNEs1OH1bFA",
+        "name": "Se Perdo Te",
+        "artist": "Patty Pravo",
+        "artistId": "2Yi5fknmHBqqKjHF6cXQyh"
+      },
+      {
+        "uri": "spotify:track:7zrkOMlUmpdS6COxQykfVU",
+        "id": "7zrkOMlUmpdS6COxQykfVU",
+        "name": "Nessuno Mi Può Giudicare",
+        "artist": "Caterina Caselli",
+        "artistId": "19tdzR0mBQe9NrCyXvzw3p"
+      },
+      {
+        "uri": "spotify:track:4mKtNDwwf6NJa3XP1A4P30",
+        "id": "4mKtNDwwf6NJa3XP1A4P30",
+        "name": "Insieme A Te Non Ci Sto Più",
+        "artist": "Caterina Caselli",
+        "artistId": "19tdzR0mBQe9NrCyXvzw3p"
+      },
+      {
+        "uri": "spotify:track:24pKXGE6UfQwLA6ubYWtFt",
+        "id": "24pKXGE6UfQwLA6ubYWtFt",
+        "name": "C'era un ragazzo che come me amava i Beatles e i Rolling Stones",
+        "artist": "Gianni Morandi",
+        "artistId": "15FrhfFYJIx7Ijltkpjbsr"
+      },
+      {
+        "uri": "spotify:track:7M0IFuRJ6p39hgJP8NiVSd",
+        "id": "7M0IFuRJ6p39hgJP8NiVSd",
+        "name": "29 Settembre",
+        "artist": "Equipe 84",
+        "artistId": "6HoKIpT9ssjMLCHQ6DbCAa"
+      },
+      {
+        "uri": "spotify:track:6y7XB3Zxk9XUaxw0Pp5IG5",
+        "id": "6y7XB3Zxk9XUaxw0Pp5IG5",
+        "name": "Io ho in mente te",
+        "artist": "Equipe 84",
+        "artistId": "6HoKIpT9ssjMLCHQ6DbCAa"
+      },
+      {
+        "uri": "spotify:track:14VbmhfCRpTPFPo2SfhHxX",
+        "id": "14VbmhfCRpTPFPo2SfhHxX",
+        "name": "Tutta mia la città",
+        "artist": "Equipe 84",
+        "artistId": "6HoKIpT9ssjMLCHQ6DbCAa"
+      },
+      {
+        "uri": "spotify:track:1lxEENvXYLcyWXa4xwWTXl",
+        "id": "1lxEENvXYLcyWXa4xwWTXl",
+        "name": "Io vagabondo",
+        "artist": "Nomadi",
+        "artistId": "2tk9K5rmPe05JFOzxbkfN9"
+      },
+      {
+        "uri": "spotify:track:7L6ceM3HZMMRUPi8FZ1y0a",
+        "id": "7L6ceM3HZMMRUPi8FZ1y0a",
+        "name": "Dio è morto",
+        "artist": "Nomadi",
+        "artistId": "2tk9K5rmPe05JFOzxbkfN9"
+      },
+      {
+        "uri": "spotify:track:13OUCtTyVAyOcfYfYFhIpb",
+        "id": "13OUCtTyVAyOcfYfYFhIpb",
+        "name": "Sognando La California",
+        "artist": "Dik Dik",
+        "artistId": "02k49fevWJG1fltz6R0jez"
+      },
+      {
+        "uri": "spotify:track:2njZmnMMBXezqa1i3t64D7",
+        "id": "2njZmnMMBXezqa1i3t64D7",
+        "name": "Senza Luce",
+        "artist": "Dik Dik",
+        "artistId": "02k49fevWJG1fltz6R0jez"
+      },
+      {
+        "uri": "spotify:track:2sGlVbscFzMx3eEFvsNwkq",
+        "id": "2sGlVbscFzMx3eEFvsNwkq",
+        "name": "Tema",
+        "artist": "I Giganti",
+        "artistId": "4SVnhUgBcGgqJbRoRaSPbN"
+      },
+      {
+        "uri": "spotify:track:3E41PlrWGcfROQIH5scjXd",
+        "id": "3E41PlrWGcfROQIH5scjXd",
+        "name": "Il ballo del mattone",
+        "artist": "Rita Pavone",
+        "artistId": "3xc8CD41vwsoBNkGXL3pS7"
+      },
+      {
+        "uri": "spotify:track:4tr9dbusQFkmoVHFpDXPSJ",
+        "id": "4tr9dbusQFkmoVHFpDXPSJ",
+        "name": "Ritornerai",
+        "artist": "Bruno Lauzi",
+        "artistId": "69lP1pS5aRVxgyvi0uOYbg"
+      },
+      {
+        "uri": "spotify:track:4SkC3MSZJa6xWNepORtE0s",
+        "id": "4SkC3MSZJa6xWNepORtE0s",
+        "name": "Onda su onda",
+        "artist": "Bruno Lauzi",
+        "artistId": "69lP1pS5aRVxgyvi0uOYbg"
+      },
+      {
+        "uri": "spotify:track:5PnEkOUOFnk0wMI71JwddQ",
+        "id": "5PnEkOUOFnk0wMI71JwddQ",
+        "name": "L'appuntamento",
+        "artist": "Ornella Vanoni",
+        "artistId": "4MR6tQyIrWK82b56cYPBDv"
+      },
+      {
+        "uri": "spotify:track:1ZCNdktzp1jXQtuQdS0yek",
+        "id": "1ZCNdktzp1jXQtuQdS0yek",
+        "name": "Il mondo",
+        "artist": "Jimmy Fontana",
+        "artistId": "6YvCTF77M8f4Nq3IqoWvtz"
+      },
+      {
+        "uri": "spotify:track:7tSfEJbNfvvhz5hpC0fTIk",
+        "id": "7tSfEJbNfvvhz5hpC0fTIk",
+        "name": "Se piangi, se ridi",
+        "artist": "Bobby Solo",
+        "artistId": "7GxkHuCxqtPAVnpBTjObpn"
+      },
+      {
+        "uri": "spotify:track:5NVKrGAZjusEqZJ7onT9gO",
+        "id": "5NVKrGAZjusEqZJ7onT9gO",
+        "name": "Quando, Quando, Quando - 2004 Remaster",
+        "artist": "Tony Renis",
+        "artistId": "55WUEyUburuMbmTBiIUzpm"
+      },
+      {
+        "uri": "spotify:track:0XsmiSf5YHeUO9Cgp6YPom",
+        "id": "0XsmiSf5YHeUO9Cgp6YPom",
+        "name": "Riderà",
+        "artist": "Little Tony",
+        "artistId": "6g9yfu8k5sapPN9iisZhEW"
+      },
+      {
+        "uri": "spotify:track:6usPTjzBdssiOUGz5YcKUh",
+        "id": "6usPTjzBdssiOUGz5YcKUh",
+        "name": "Bada Bambina",
+        "artist": "Little Tony",
+        "artistId": "6g9yfu8k5sapPN9iisZhEW"
+      },
+      {
+        "uri": "spotify:track:0vk46qEN6DEzancOurslfM",
+        "id": "0vk46qEN6DEzancOurslfM",
+        "name": "Ma Che Freddo Fa",
+        "artist": "Nada",
+        "artistId": "37x1MqNXlCtuLLYSXYX7jA"
+      },
+      {
+        "uri": "spotify:track:5DqwcvdS8jSv2rOLwwsrKD",
+        "id": "5DqwcvdS8jSv2rOLwwsrKD",
+        "name": "Pugni chiusi",
+        "artist": "I Ribelli",
+        "artistId": "6TMaKQlbLHqKAnyH8Y49yQ"
+      },
+      {
+        "uri": "spotify:track:0qAfJCP6WYMpIKrUm7y1mn",
+        "id": "0qAfJCP6WYMpIKrUm7y1mn",
+        "name": "Perdono",
+        "artist": "Caterina Caselli",
+        "artistId": "19tdzR0mBQe9NrCyXvzw3p"
+      },
+      {
+        "uri": "spotify:track:5gVHBP3mlC7ZNDBsnj6e00",
+        "id": "5gVHBP3mlC7ZNDBsnj6e00",
+        "name": "L'ora dell'amore (Homburg)",
+        "artist": "I Camaleonti",
+        "artistId": "6gr9N1ZxcYFJJHRBxkveUX"
+      }
+    ],
+    "Best Classic Soul": [
+      {
+        "uri": "spotify:track:3BucMqBqIR5Aw7MrUkF00y",
+        "id": "3BucMqBqIR5Aw7MrUkF00y",
+        "name": "Ain't No Way",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:0kzhMZZNmxiLG7qyJhVBHB",
+        "id": "0kzhMZZNmxiLG7qyJhVBHB",
+        "name": "Signed, Sealed, Delivered (I'm Yours)",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:0WVTQp3SOCuMr08jh1jweV",
+        "id": "0WVTQp3SOCuMr08jh1jweV",
+        "name": "Bring It On Home to Me",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:65jrjEhWfAvysKfnojk1i0",
+        "id": "65jrjEhWfAvysKfnojk1i0",
+        "name": "Under the Boardwalk",
+        "artist": "The Drifters",
+        "artistId": "1FqqOl9itIUpXr4jZPIVoT"
+      },
+      {
+        "uri": "spotify:track:51FpzuGkRYXFgsE2zXt9av",
+        "id": "51FpzuGkRYXFgsE2zXt9av",
+        "name": "When a Man Loves a Woman",
+        "artist": "Percy Sledge",
+        "artistId": "3rRmDmzPcAFwcUDvG5gBqO"
+      },
+      {
+        "uri": "spotify:track:5c33j1xFVOL4G24zxYhssB",
+        "id": "5c33j1xFVOL4G24zxYhssB",
+        "name": "This Old Heart Of Mine (Is Weak For You)",
+        "artist": "The Isley Brothers",
+        "artistId": "53QzNeFpzAaXYnrDBbDrIp"
+      },
+      {
+        "uri": "spotify:track:5ZoDwIP1ntHwciLjydJ8X2",
+        "id": "5ZoDwIP1ntHwciLjydJ8X2",
+        "name": "My Cherie Amour",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:1KbuhBnzMHp4eq1q6flhWd",
+        "id": "1KbuhBnzMHp4eq1q6flhWd",
+        "name": "Ain't No Mountain High Enough",
+        "artist": "Diana Ross",
+        "artistId": "3MdG05syQeRYPPcClLaUGl"
+      },
+      {
+        "uri": "spotify:track:1OppEieGNdItZbE14gLBEv",
+        "id": "1OppEieGNdItZbE14gLBEv",
+        "name": "You Can't Hurry Love",
+        "artist": "The Supremes",
+        "artistId": "57bUPid8xztkieZfS7OlEV"
+      },
+      {
+        "uri": "spotify:track:1tqT6DhmsrtQgyCKUwotiw",
+        "id": "1tqT6DhmsrtQgyCKUwotiw",
+        "name": "I Heard It Through The Grapevine",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:0Hw6SCrtU9pFCjgAONpnGZ",
+        "id": "0Hw6SCrtU9pFCjgAONpnGZ",
+        "name": "Uptight (Everything's Alright)",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:3NfxSdJnVdon1axzloJgba",
+        "id": "3NfxSdJnVdon1axzloJgba",
+        "name": "I Say a Little Prayer",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:4pdLyulbYLCrPmDzWWeJIZ",
+        "id": "4pdLyulbYLCrPmDzWWeJIZ",
+        "name": "I've Been Loving You Too Long",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:3gsCAGsWr6pUm1Vy7CPPob",
+        "id": "3gsCAGsWr6pUm1Vy7CPPob",
+        "name": "Killing Me Softly With His Song",
+        "artist": "Roberta Flack",
+        "artistId": "0W498bDDNlJIrYMKXdpLHA"
+      },
+      {
+        "uri": "spotify:track:3ZxfehzRtB3oJcBuxWXFZQ",
+        "id": "3ZxfehzRtB3oJcBuxWXFZQ",
+        "name": "It's Your Thing",
+        "artist": "The Isley Brothers",
+        "artistId": "53QzNeFpzAaXYnrDBbDrIp"
+      },
+      {
+        "uri": "spotify:track:37soQoNhEEIrhhYgHWK1xU",
+        "id": "37soQoNhEEIrhhYgHWK1xU",
+        "name": "Ain't Nothing Like The Real Thing",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:391TUcoPonqYykPkSZ5Z9U",
+        "id": "391TUcoPonqYykPkSZ5Z9U",
+        "name": "Save the Last Dance for Me",
+        "artist": "The Drifters",
+        "artistId": "1FqqOl9itIUpXr4jZPIVoT"
+      },
+      {
+        "uri": "spotify:track:5K09WxKdlkroDyEVyOSySy",
+        "id": "5K09WxKdlkroDyEVyOSySy",
+        "name": "(You Make Me Feel Like) A Natural Woman",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:31NAADgOqGlBU70Xg1bdwQ",
+        "id": "31NAADgOqGlBU70Xg1bdwQ",
+        "name": "Papa Was A Rollin' Stone",
+        "artist": "The Temptations",
+        "artistId": "3RwQ26hR2tJtA8F9p2n7jG"
+      },
+      {
+        "uri": "spotify:track:3aCbwWCYCT3MJjZeUnlcp4",
+        "id": "3aCbwWCYCT3MJjZeUnlcp4",
+        "name": "Baby I Need Your Loving",
+        "artist": "Four Tops",
+        "artistId": "7fIvjotigTGWqjIz6EP1i4"
+      },
+      {
+        "uri": "spotify:track:6gbv4ESVucR3K9jSlRVNn3",
+        "id": "6gbv4ESVucR3K9jSlRVNn3",
+        "name": "You Send Me",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:4XsH9zBWPOCdXoH9ZDdS8r",
+        "id": "4XsH9zBWPOCdXoH9ZDdS8r",
+        "name": "Superfly",
+        "artist": "Curtis Mayfield",
+        "artistId": "2AV6XDIs32ofIJhkkDevjm"
+      },
+      {
+        "uri": "spotify:track:0wffUvdtOWdnFt3rZFQtlr",
+        "id": "0wffUvdtOWdnFt3rZFQtlr",
+        "name": "Respect",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:5RdhBLmB4DyFHLglRrfx63",
+        "id": "5RdhBLmB4DyFHLglRrfx63",
+        "name": "I'll Be There",
+        "artist": "The Jackson 5",
+        "artistId": "2iE18Oxc8YSumAU232n4rW"
+      },
+      {
+        "uri": "spotify:track:7MSYSOobsombc1mbDWFxtD",
+        "id": "7MSYSOobsombc1mbDWFxtD",
+        "name": "This Christmas",
+        "artist": "Donny Hathaway",
+        "artistId": "0HU0U9kdXEHZVxUNbuQe8S"
+      },
+      {
+        "uri": "spotify:track:1O1mCVN5hue4lOOqd5EysZ",
+        "id": "1O1mCVN5hue4lOOqd5EysZ",
+        "name": "Living For The City",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:7mRak6wBx9OGKXr3zStoHW",
+        "id": "7mRak6wBx9OGKXr3zStoHW",
+        "name": "Mustang Sally",
+        "artist": "Wilson Pickett",
+        "artistId": "0N5PyKJzS3M1XNlaCL7bbE"
+      },
+      {
+        "uri": "spotify:track:1kPBT8S2wJFNAyBMnGVZgL",
+        "id": "1kPBT8S2wJFNAyBMnGVZgL",
+        "name": "I'd Rather Go Blind",
+        "artist": "Etta James",
+        "artistId": "0iOVhN3tnSvgDbcg25JoJb"
+      },
+      {
+        "uri": "spotify:track:2GEDd9qtGXU7IvGgqTF6Uj",
+        "id": "2GEDd9qtGXU7IvGgqTF6Uj",
+        "name": "I'm Still in Love with You",
+        "artist": "Al Green",
+        "artistId": "3dkbV4qihUeMsqN4vBGg93"
+      },
+      {
+        "uri": "spotify:track:4lzTyLYXb3ED01TSLCJ1Hz",
+        "id": "4lzTyLYXb3ED01TSLCJ1Hz",
+        "name": "Respect Yourself",
+        "artist": "The Staple Singers",
+        "artistId": "7xGGqA85UIWX1GoTVM4itC"
+      },
+      {
+        "uri": "spotify:track:5hTyIlRYTc0sNHk5wDk6Xl",
+        "id": "5hTyIlRYTc0sNHk5wDk6Xl",
+        "name": "That Lady - Pt. 1 & 2",
+        "artist": "The Isley Brothers",
+        "artistId": "53QzNeFpzAaXYnrDBbDrIp"
+      },
+      {
+        "uri": "spotify:track:0n2pjCIMKwHSXoYfEbYMfX",
+        "id": "0n2pjCIMKwHSXoYfEbYMfX",
+        "name": "You Are The Sunshine Of My Life",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:6cLEpgDcEldV1n9gusHQUX",
+        "id": "6cLEpgDcEldV1n9gusHQUX",
+        "name": "Do Right Woman, Do Right Man",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:39Bd345OWEhRNyfayhp9gv",
+        "id": "39Bd345OWEhRNyfayhp9gv",
+        "name": "Just My Imagination (Running Away With Me)",
+        "artist": "The Temptations",
+        "artistId": "3RwQ26hR2tJtA8F9p2n7jG"
+      },
+      {
+        "uri": "spotify:track:5Iev69m1Jnf7oc79VvPjpd",
+        "id": "5Iev69m1Jnf7oc79VvPjpd",
+        "name": "Cupid",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:2ouFIPC3O1HNBcVTw1d9AN",
+        "id": "2ouFIPC3O1HNBcVTw1d9AN",
+        "name": "Freddie's Dead",
+        "artist": "Curtis Mayfield",
+        "artistId": "2AV6XDIs32ofIJhkkDevjm"
+      },
+      {
+        "uri": "spotify:track:69RH84na5iUNwrwxpgjC5j",
+        "id": "69RH84na5iUNwrwxpgjC5j",
+        "name": "Where Did Our Love Go",
+        "artist": "The Supremes",
+        "artistId": "57bUPid8xztkieZfS7OlEV"
+      },
+      {
+        "uri": "spotify:track:62r1CS9zL1FL5Ilb7hLX7n",
+        "id": "62r1CS9zL1FL5Ilb7hLX7n",
+        "name": "Take Me to the River",
+        "artist": "Al Green",
+        "artistId": "3dkbV4qihUeMsqN4vBGg93"
+      },
+      {
+        "uri": "spotify:track:76ICmoJ4PcoMWoooaTxnQs",
+        "id": "76ICmoJ4PcoMWoooaTxnQs",
+        "name": "Land of 1000 Dances",
+        "artist": "Wilson Pickett",
+        "artistId": "0N5PyKJzS3M1XNlaCL7bbE"
+      },
+      {
+        "uri": "spotify:track:5QC07jdKdQrH1cW7Ag3OJ2",
+        "id": "5QC07jdKdQrH1cW7Ag3OJ2",
+        "name": "Something's Got A Hold On Me",
+        "artist": "Etta James",
+        "artistId": "0iOVhN3tnSvgDbcg25JoJb"
+      },
+      {
+        "uri": "spotify:track:4N0TP4Rmj6QQezWV88ARNJ",
+        "id": "4N0TP4Rmj6QQezWV88ARNJ",
+        "name": "Superstition",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:7rvGZDlfqCjY9EWEUg3Xs6",
+        "id": "7rvGZDlfqCjY9EWEUg3Xs6",
+        "name": "Rock Steady",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:0iJP3XxZNE8tP7YnB23J1r",
+        "id": "0iJP3XxZNE8tP7YnB23J1r",
+        "name": "Someday We'll All Be Free",
+        "artist": "Donny Hathaway",
+        "artistId": "0HU0U9kdXEHZVxUNbuQe8S"
+      },
+      {
+        "uri": "spotify:track:2gFfG8Ick2LGOzFHiWOV22",
+        "id": "2gFfG8Ick2LGOzFHiWOV22",
+        "name": "Tramp",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:4pNiE4LCVV74vfIBaUHm1b",
+        "id": "4pNiE4LCVV74vfIBaUHm1b",
+        "name": "Sir Duke",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:7s25THrKz86DM225dOYwnr",
+        "id": "7s25THrKz86DM225dOYwnr",
+        "name": "Respect",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:4EyzhvYqC5uDA8iYTZNKiw",
+        "id": "4EyzhvYqC5uDA8iYTZNKiw",
+        "name": "Wonderful World",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:4Dq749x2QP6OXTURJ9GGY8",
+        "id": "4Dq749x2QP6OXTURJ9GGY8",
+        "name": "The Tears Of A Clown",
+        "artist": "Smokey Robinson & The Miracles",
+        "artistId": "6TKOZZDd5uV5KnyC5G4MUt"
+      },
+      {
+        "uri": "spotify:track:3SdTKo2uVsxFblQjpScoHy",
+        "id": "3SdTKo2uVsxFblQjpScoHy",
+        "name": "Stand By Me",
+        "artist": "Ben E. King",
+        "artistId": "3plJVWt88EqjvtuB4ZDRV3"
+      },
+      {
+        "uri": "spotify:track:0SxFyA4FqmEQqZVuAlg8lf",
+        "id": "0SxFyA4FqmEQqZVuAlg8lf",
+        "name": "The First Time Ever I Saw Your Face",
+        "artist": "Roberta Flack",
+        "artistId": "0W498bDDNlJIrYMKXdpLHA"
+      },
+      {
+        "uri": "spotify:track:4skknrc3sJqaPTtUr2cwFq",
+        "id": "4skknrc3sJqaPTtUr2cwFq",
+        "name": "These Arms of Mine",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:6Pkj4nv5K53i64cLVgkVyY",
+        "id": "6Pkj4nv5K53i64cLVgkVyY",
+        "name": "Reach Out I'll Be There",
+        "artist": "Four Tops",
+        "artistId": "7fIvjotigTGWqjIz6EP1i4"
+      },
+      {
+        "uri": "spotify:track:5hReWjUHqPqkHi31G7izL4",
+        "id": "5hReWjUHqPqkHi31G7izL4",
+        "name": "Inner City Blues (Make Me Wanna Holler)",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:5LxvwujISqiB8vpRYv887S",
+        "id": "5LxvwujISqiB8vpRYv887S",
+        "name": "I Want You Back",
+        "artist": "The Jackson 5",
+        "artistId": "2iE18Oxc8YSumAU232n4rW"
+      },
+      {
+        "uri": "spotify:track:4gRA0i5sxx3jAhHaVjPnUN",
+        "id": "4gRA0i5sxx3jAhHaVjPnUN",
+        "name": "Use Me",
+        "artist": "Bill Withers",
+        "artistId": "1ThoqLcyIYvZn7iWbj8fsj"
+      },
+      {
+        "uri": "spotify:track:28285KFbyCq8sJofn58qlD",
+        "id": "28285KFbyCq8sJofn58qlD",
+        "name": "Love Train",
+        "artist": "The O'Jays",
+        "artistId": "38h03gA85YYPeDPd9ER9rT"
+      },
+      {
+        "uri": "spotify:track:7MF7QAodbGzNYav5ZfIhAY",
+        "id": "7MF7QAodbGzNYav5ZfIhAY",
+        "name": "Midnight Train to Georgia",
+        "artist": "Gladys Knight & The Pips",
+        "artistId": "0TF2NxkJZPQoX1H53rEFM1"
+      },
+      {
+        "uri": "spotify:track:3UCmuRdeTriWgOZMEJsfqZ",
+        "id": "3UCmuRdeTriWgOZMEJsfqZ",
+        "name": "Spanish Harlem",
+        "artist": "Ben E. King",
+        "artistId": "3plJVWt88EqjvtuB4ZDRV3"
+      },
+      {
+        "uri": "spotify:track:3nsJGZ5RV2ZHkbKvD771gU",
+        "id": "3nsJGZ5RV2ZHkbKvD771gU",
+        "name": "Ooo Baby Baby",
+        "artist": "Smokey Robinson & The Miracles",
+        "artistId": "6TKOZZDd5uV5KnyC5G4MUt"
+      },
+      {
+        "uri": "spotify:track:5yr8pi3uCjTYOnTqstBBdm",
+        "id": "5yr8pi3uCjTYOnTqstBBdm",
+        "name": "Let's Get It On",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:63xdwScd1Ai1GigAwQxE8y",
+        "id": "63xdwScd1Ai1GigAwQxE8y",
+        "name": "Let's Stay Together",
+        "artist": "Al Green",
+        "artistId": "3dkbV4qihUeMsqN4vBGg93"
+      },
+      {
+        "uri": "spotify:track:5YLnfy7R2kueN0BRPkjiEG",
+        "id": "5YLnfy7R2kueN0BRPkjiEG",
+        "name": "I'll Take You There",
+        "artist": "The Staple Singers",
+        "artistId": "7xGGqA85UIWX1GoTVM4itC"
+      },
+      {
+        "uri": "spotify:track:0bRXwKfigvpKZUurwqAlEh",
+        "id": "0bRXwKfigvpKZUurwqAlEh",
+        "name": "Lovely Day",
+        "artist": "Bill Withers",
+        "artistId": "1ThoqLcyIYvZn7iWbj8fsj"
+      },
+      {
+        "uri": "spotify:track:4CoGNqLap7UGU5Q3VdKug0",
+        "id": "4CoGNqLap7UGU5Q3VdKug0",
+        "name": "Ain't Too Proud To Beg",
+        "artist": "The Temptations",
+        "artistId": "3RwQ26hR2tJtA8F9p2n7jG"
+      },
+      {
+        "uri": "spotify:track:36AlMHDBFwSsD3FQOy1R81",
+        "id": "36AlMHDBFwSsD3FQOy1R81",
+        "name": "Try a Little Tenderness",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:2cK7SJ2O3CqDRHeixvFKgh",
+        "id": "2cK7SJ2O3CqDRHeixvFKgh",
+        "name": "Move On Up",
+        "artist": "Curtis Mayfield",
+        "artistId": "2AV6XDIs32ofIJhkkDevjm"
+      },
+      {
+        "uri": "spotify:track:5uES1C2NgkdrNHiCwf9jRr",
+        "id": "5uES1C2NgkdrNHiCwf9jRr",
+        "name": "Baby Love",
+        "artist": "The Supremes",
+        "artistId": "57bUPid8xztkieZfS7OlEV"
+      },
+      {
+        "uri": "spotify:track:6b6IMqP565TbtFFZg9iFf3",
+        "id": "6b6IMqP565TbtFFZg9iFf3",
+        "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+        "artist": "Four Tops",
+        "artistId": "7fIvjotigTGWqjIz6EP1i4"
+      },
+      {
+        "uri": "spotify:track:6D8kc7RO0rqBLSo2YPflJ5",
+        "id": "6D8kc7RO0rqBLSo2YPflJ5",
+        "name": "ABC",
+        "artist": "The Jackson 5",
+        "artistId": "2iE18Oxc8YSumAU232n4rW"
+      },
+      {
+        "uri": "spotify:track:3IDc87lrpEHWFBASmgTgFV",
+        "id": "3IDc87lrpEHWFBASmgTgFV",
+        "name": "Mercy Mercy Me (The Ecology)",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:4Hhv2vrOTy89HFRcjU3QOx",
+        "id": "4Hhv2vrOTy89HFRcjU3QOx",
+        "name": "At Last",
+        "artist": "Etta James",
+        "artistId": "0iOVhN3tnSvgDbcg25JoJb"
+      },
+      {
+        "uri": "spotify:track:4NRQwaks9r58tTDvr4iEyv",
+        "id": "4NRQwaks9r58tTDvr4iEyv",
+        "name": "In the Midnight Hour",
+        "artist": "Wilson Pickett",
+        "artistId": "0N5PyKJzS3M1XNlaCL7bbE"
+      },
+      {
+        "uri": "spotify:track:6QyQmdvQ1ywNccYa0pwLNQ",
+        "id": "6QyQmdvQ1ywNccYa0pwLNQ",
+        "name": "The Tracks Of My Tears",
+        "artist": "Smokey Robinson & The Miracles",
+        "artistId": "6TKOZZDd5uV5KnyC5G4MUt"
+      },
+      {
+        "uri": "spotify:track:10vkYRKw6Jjr7try1ir50G",
+        "id": "10vkYRKw6Jjr7try1ir50G",
+        "name": "Tired of Being Alone",
+        "artist": "Al Green",
+        "artistId": "3dkbV4qihUeMsqN4vBGg93"
+      },
+      {
+        "uri": "spotify:track:4kP69y3GKHi9tXckfgp4bK",
+        "id": "4kP69y3GKHi9tXckfgp4bK",
+        "name": "For Once In My Life",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:1k1Bqnv2R0uJXQN4u6LKYt",
+        "id": "1k1Bqnv2R0uJXQN4u6LKYt",
+        "name": "Ain't No Sunshine",
+        "artist": "Bill Withers",
+        "artistId": "1ThoqLcyIYvZn7iWbj8fsj"
+      },
+      {
+        "uri": "spotify:track:4yQw7FR9lcvL6RHtegbJBh",
+        "id": "4yQw7FR9lcvL6RHtegbJBh",
+        "name": "Think",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:0KpMY3D2G8253VTZbDBUmA",
+        "id": "0KpMY3D2G8253VTZbDBUmA",
+        "name": "Back Stabbers",
+        "artist": "The O'Jays",
+        "artistId": "38h03gA85YYPeDPd9ER9rT"
+      },
+      {
+        "uri": "spotify:track:5spAjqC772iC2KzDvEkmSr",
+        "id": "5spAjqC772iC2KzDvEkmSr",
+        "name": "A Song for You",
+        "artist": "Donny Hathaway",
+        "artistId": "0HU0U9kdXEHZVxUNbuQe8S"
+      },
+      {
+        "uri": "spotify:track:3BrUr1rwAYJbf6sLlDf7WN",
+        "id": "3BrUr1rwAYJbf6sLlDf7WN",
+        "name": "If I Were Your Woman",
+        "artist": "Gladys Knight & The Pips",
+        "artistId": "0TF2NxkJZPQoX1H53rEFM1"
+      },
+      {
+        "uri": "spotify:track:3zBhihYUHBmGd2bcQIobrF",
+        "id": "3zBhihYUHBmGd2bcQIobrF",
+        "name": "(Sittin' On) the Dock of the Bay",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:4pbZcKtuu2GuX5hbrxkSUc",
+        "id": "4pbZcKtuu2GuX5hbrxkSUc",
+        "name": "People Get Ready",
+        "artist": "Curtis Mayfield",
+        "artistId": "2AV6XDIs32ofIJhkkDevjm"
+      },
+      {
+        "uri": "spotify:track:0YfOnJWqmAKaUvEL1QcNop",
+        "id": "0YfOnJWqmAKaUvEL1QcNop",
+        "name": "A Change Is Gonna Come",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:52FlwUMMDnTK8TGkCag9Jd",
+        "id": "52FlwUMMDnTK8TGkCag9Jd",
+        "name": "Stop! In The Name Of Love",
+        "artist": "The Supremes",
+        "artistId": "57bUPid8xztkieZfS7OlEV"
+      },
+      {
+        "uri": "spotify:track:3Um9toULmYFGCpvaIPFw7l",
+        "id": "3Um9toULmYFGCpvaIPFw7l",
+        "name": "What's Going On",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:2pYCyEwJ0xKnWbuQkqNHgp",
+        "id": "2pYCyEwJ0xKnWbuQkqNHgp",
+        "name": "Love and Happiness",
+        "artist": "Al Green",
+        "artistId": "3dkbV4qihUeMsqN4vBGg93"
+      },
+      {
+        "uri": "spotify:track:0dMd4rilfd6gPbXaLpNYhu",
+        "id": "0dMd4rilfd6gPbXaLpNYhu",
+        "name": "Higher Ground",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:5zCJvrT3C7cIfHsR5iG95l",
+        "id": "5zCJvrT3C7cIfHsR5iG95l",
+        "name": "Lean on Me",
+        "artist": "Bill Withers",
+        "artistId": "1ThoqLcyIYvZn7iWbj8fsj"
+      },
+      {
+        "uri": "spotify:track:2oZmMp5M6L0Rh7G84Um2tF",
+        "id": "2oZmMp5M6L0Rh7G84Um2tF",
+        "name": "Chain of Fools",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:745H5CctFr12Mo7cqa1BMH",
+        "id": "745H5CctFr12Mo7cqa1BMH",
+        "name": "My Girl",
+        "artist": "The Temptations",
+        "artistId": "3RwQ26hR2tJtA8F9p2n7jG"
+      },
+      {
+        "uri": "spotify:track:6lUXneXZ9jc3HSMHgd8oqh",
+        "id": "6lUXneXZ9jc3HSMHgd8oqh",
+        "name": "How Can You Mend a Broken Heart",
+        "artist": "Al Green",
+        "artistId": "3dkbV4qihUeMsqN4vBGg93"
+      },
+      {
+        "uri": "spotify:track:1l1YTy9nJ0trwhsCGcimly",
+        "id": "1l1YTy9nJ0trwhsCGcimly",
+        "name": "It's A Shame",
+        "artist": "The Spinners",
+        "artistId": "5fbhwqYYh4YwUoEs582mq5"
+      },
+      {
+        "uri": "spotify:track:4eGHlplaq1ME8oetnTuFFf",
+        "id": "4eGHlplaq1ME8oetnTuFFf",
+        "name": "Soul Man",
+        "artist": "Sam & Dave",
+        "artistId": "2BVYdY4PyfCF9z4NrkhEB2"
+      },
+      {
+        "uri": "spotify:track:3xsOtNxtBW0oTI1OWKAzTm",
+        "id": "3xsOtNxtBW0oTI1OWKAzTm",
+        "name": "Walk on By",
+        "artist": "Dionne Warwick",
+        "artistId": "2JSjCHK79gdaiPWdKiNUNp"
+      },
+      {
+        "uri": "spotify:track:7MiLmLbwNoyf47xQ4TCVYp",
+        "id": "7MiLmLbwNoyf47xQ4TCVYp",
+        "name": "Papa Was A Rollin' Stone - Single Version",
+        "artist": "The Temptations",
+        "artistId": "3RwQ26hR2tJtA8F9p2n7jG"
+      },
+      {
+        "uri": "spotify:track:4591VqUIXysNlmI5NcAIUd",
+        "id": "4591VqUIXysNlmI5NcAIUd",
+        "name": "My Guy",
+        "artist": "Mary Wells",
+        "artistId": "1cjZk1xXn3YCToNg3uJpA7"
+      },
+      {
+        "uri": "spotify:track:6Ro2z4RtAUew9Kz2HZWZUi",
+        "id": "6Ro2z4RtAUew9Kz2HZWZUi",
+        "name": "Me and Mrs. Jones",
+        "artist": "Billy Paul",
+        "artistId": "187xgSpsFH8mMbAcoCW0zE"
+      },
+      {
+        "uri": "spotify:track:1QvWxgZvTU0w8rlPRE5Zrv",
+        "id": "1QvWxgZvTU0w8rlPRE5Zrv",
+        "name": "Don't You Worry 'Bout A Thing",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:5XeSAezNDk9tuw3viiCbZ3",
+        "id": "5XeSAezNDk9tuw3viiCbZ3",
+        "name": "Get Up Offa That Thing",
+        "artist": "James Brown",
+        "artistId": "7GaxyUddsPok8BuhxN6OUW"
+      },
+      {
+        "uri": "spotify:track:6rLqjzGV5VMLDWEnuUqi8q",
+        "id": "6rLqjzGV5VMLDWEnuUqi8q",
+        "name": "Dancing In The Street",
+        "artist": "Martha Reeves & The Vandellas",
+        "artistId": "1Pe5hlKMCTULjosqZ6KanP"
+      },
+      {
+        "uri": "spotify:track:5fdNHVZHbWB1AaXk4RBGVD",
+        "id": "5fdNHVZHbWB1AaXk4RBGVD",
+        "name": "Just the Two of Us",
+        "artist": "Grover Washington, Jr.",
+        "artistId": "05YVYeV4HxYp5rrWalvuE1"
+      },
+      {
+        "uri": "spotify:track:5zQyqgNXKzhifkivumzxDS",
+        "id": "5zQyqgNXKzhifkivumzxDS",
+        "name": "My Girl",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:2BydLQAh7CUIFvSEqAMc4x",
+        "id": "2BydLQAh7CUIFvSEqAMc4x",
+        "name": "If You Want Me to Stay",
+        "artist": "Sly & The Family Stone",
+        "artistId": "5m8H6zSadhu1j9Yi04VLqD"
+      },
+      {
+        "uri": "spotify:track:1aj4GXfmEYXfdVZohCpNKu",
+        "id": "1aj4GXfmEYXfdVZohCpNKu",
+        "name": "Stand by Me",
+        "artist": "Otis Redding",
+        "artistId": "60df5JBRRPcnSpsIMxxwQm"
+      },
+      {
+        "uri": "spotify:track:2vLaES21zwbX1Rnmj56Bbb",
+        "id": "2vLaES21zwbX1Rnmj56Bbb",
+        "name": "I'll Be Around",
+        "artist": "The Spinners",
+        "artistId": "5fbhwqYYh4YwUoEs582mq5"
+      },
+      {
+        "uri": "spotify:track:2Bls0igCm79XQQ95IoUbhq",
+        "id": "2Bls0igCm79XQQ95IoUbhq",
+        "name": "Mr. Big Stuff",
+        "artist": "Jean Knight",
+        "artistId": "2Tk0pWxTuQgnE5nsUexrLr"
+      },
+      {
+        "uri": "spotify:track:6Ndauo9gCxNjTfklsFYS7b",
+        "id": "6Ndauo9gCxNjTfklsFYS7b",
+        "name": "You're All I Need To Get By",
+        "artist": "Marvin Gaye",
+        "artistId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "uri": "spotify:track:3mWpUEBYnv9SIFWfixSJFx",
+        "id": "3mWpUEBYnv9SIFWfixSJFx",
+        "name": "Can't Get Enough Of Your Love, Babe",
+        "artist": "Barry White",
+        "artistId": "3rfgbfpPSfXY40lzRK7Syt"
+      },
+      {
+        "uri": "spotify:track:6PgVDY8GTkxF3GmhVGPzoB",
+        "id": "6PgVDY8GTkxF3GmhVGPzoB",
+        "name": "Hold On, I'm Comin'",
+        "artist": "Sam & Dave",
+        "artistId": "2BVYdY4PyfCF9z4NrkhEB2"
+      },
+      {
+        "uri": "spotify:track:4ZVZBc5xvMyV3WzWktn8i7",
+        "id": "4ZVZBc5xvMyV3WzWktn8i7",
+        "name": "Everyday People",
+        "artist": "Sly & The Family Stone",
+        "artistId": "5m8H6zSadhu1j9Yi04VLqD"
+      },
+      {
+        "uri": "spotify:track:3EfCueieaKWYv96IYvPKxS",
+        "id": "3EfCueieaKWYv96IYvPKxS",
+        "name": "It's a Man's Man's World",
+        "artist": "James Brown",
+        "artistId": "7GaxyUddsPok8BuhxN6OUW"
+      },
+      {
+        "uri": "spotify:track:3tXeOQmEq6Tm5zv52sZ78D",
+        "id": "3tXeOQmEq6Tm5zv52sZ78D",
+        "name": "Angel",
+        "artist": "Aretha Franklin",
+        "artistId": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "uri": "spotify:track:7bDxiHrazDoD3sOt9JjSDD",
+        "id": "7bDxiHrazDoD3sOt9JjSDD",
+        "name": "You Can't Hurry Love",
+        "artist": "The Supremes",
+        "artistId": "57bUPid8xztkieZfS7OlEV"
+      },
+      {
+        "uri": "spotify:track:6yz8hKpO3s2byra8Et3w9x",
+        "id": "6yz8hKpO3s2byra8Et3w9x",
+        "name": "Where Did Our Love Go - Stereo Version",
+        "artist": "The Supremes",
+        "artistId": "57bUPid8xztkieZfS7OlEV"
+      },
+      {
+        "uri": "spotify:track:5zWehIgPMCGysidrvbltlU",
+        "id": "5zWehIgPMCGysidrvbltlU",
+        "name": "I'm A Man",
+        "artist": "The Spencer Davis Group",
+        "artistId": "3i9hP422d2KMjaupTzBNVS"
+      },
+      {
+        "uri": "spotify:track:1ZSDhFx9BKAtPPsise9UFY",
+        "id": "1ZSDhFx9BKAtPPsise9UFY",
+        "name": "Stormy Weather",
+        "artist": "Etta James",
+        "artistId": "0iOVhN3tnSvgDbcg25JoJb"
+      },
+      {
+        "uri": "spotify:track:1DbVJjTPrABmY2rv9ja2a1",
+        "id": "1DbVJjTPrABmY2rv9ja2a1",
+        "name": "I Only Want To Be With You",
+        "artist": "Dusty Springfield",
+        "artistId": "5zaXYwewAXedKNCff45U5l"
+      },
+      {
+        "uri": "spotify:track:7FS541dJh3iQAEXEZoDhE6",
+        "id": "7FS541dJh3iQAEXEZoDhE6",
+        "name": "Twistin' the Night Away",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:1fab2FXhxD2nWcmog5Wyh9",
+        "id": "1fab2FXhxD2nWcmog5Wyh9",
+        "name": "(What A) Wonderful World",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:3TdBMzEDIvXi5hjW2d1ivD",
+        "id": "3TdBMzEDIvXi5hjW2d1ivD",
+        "name": "Bring It On Home To Me",
+        "artist": "Sam Cooke",
+        "artistId": "6hnWRPzGGKiapVX1UCdEAC"
+      },
+      {
+        "uri": "spotify:track:60TB2Ifv7CCjjyROXXnChC",
+        "id": "60TB2Ifv7CCjjyROXXnChC",
+        "name": "Too High",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:3qvuhGBr6BSdGPQsdf2gLr",
+        "id": "3qvuhGBr6BSdGPQsdf2gLr",
+        "name": "Living For The City",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:7sQ9eys8uVNrCsPyzYlDgG",
+        "id": "7sQ9eys8uVNrCsPyzYlDgG",
+        "name": "He's Misstra Know-It-All",
+        "artist": "Stevie Wonder",
+        "artistId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "uri": "spotify:track:59zZQ5uvMEstMiwyHJhh0H",
+        "id": "59zZQ5uvMEstMiwyHJhh0H",
+        "name": "I Think I'll Call It Morning",
+        "artist": "Gil Scott-Heron",
+        "artistId": "0kEfub5RzlZOB2zGomqVSU"
+      },
+      {
+        "uri": "spotify:track:6Mg17BebEPPQiu628sGJGC",
+        "id": "6Mg17BebEPPQiu628sGJGC",
+        "name": "The Boss",
+        "artist": "James Brown",
+        "artistId": "7GaxyUddsPok8BuhxN6OUW"
+      },
+      {
+        "uri": "spotify:track:0pVEx8AcTpuK4OYXziesGF",
+        "id": "0pVEx8AcTpuK4OYXziesGF",
+        "name": "California Dreamin'",
+        "artist": "Bobby Womack",
+        "artistId": "0vqkz1b2qBkoYrGMj2CUWq"
+      },
+      {
+        "uri": "spotify:track:6VTbbVjKOC2qWagIDbkJrC",
+        "id": "6VTbbVjKOC2qWagIDbkJrC",
+        "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+        "artist": "Nina Simone",
+        "artistId": "7G1GBhoKtEPnP86X2PvEYO"
+      }
+    ]
+  }
+}

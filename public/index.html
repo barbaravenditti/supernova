@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📻 Radio Supernova</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 800px;
+            margin: 0 auto;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 { color: #e94560; text-align: center; margin-bottom: 10px; font-size: 2.5em; }
+        .subtitle { text-align: center; color: #666; margin-bottom: 30px; font-size: 14px; }
+        .step { display: none; animation: fadeIn 0.5s; }
+        .step.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .btn {
+            color: white; border: none; padding: 15px 30px; border-radius: 50px;
+            font-size: 16px; cursor: pointer; transition: all 0.3s; width: 100%; margin-top: 15px;
+            font-weight: 600;
+        }
+        .btn:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+        .btn-primary { background: linear-gradient(135deg, #e94560, #c23152); }
+        .btn-primary:hover { background: linear-gradient(135deg, #ff6b81, #e94560); }
+        .btn-spotify { background: #1DB954; }
+        .btn-spotify:hover { background: #1ed760; }
+        .btn-supernova {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-size: 18px; padding: 20px;
+        }
+        .btn-supernova:hover { background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); }
+        .btn-secondary { background: #555; }
+        .btn-secondary:hover { background: #666; }
+        .btn-danger { background: #f44336; }
+        .btn-danger:hover { background: #da190b; }
+        .btn-small { width: auto; padding: 8px 16px; font-size: 13px; display: inline-block; margin: 5px; }
+        input, textarea { width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-size: 14px; margin: 10px 0; font-family: inherit; }
+        input:focus, textarea:focus { outline: none; border-color: #e94560; }
+        .user-info { text-align: center; padding: 15px; background: #f0f0f0; border-radius: 10px; margin-bottom: 20px; }
+        .status { background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #4caf50; }
+        .error { background: #ffebee; border-left-color: #f44336; color: #c62828; }
+        .loading { text-align: center; padding: 20px; }
+        .spinner { border: 3px solid #f3f3f3; border-top: 3px solid #e94560; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 20px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .info { background: #e3f2fd; padding: 15px; border-radius: 8px; margin: 15px 0; font-size: 14px; border-left: 4px solid #2196F3; }
+        .cache-info { background: #fff3e0; padding: 15px; border-radius: 8px; margin: 15px 0; font-size: 13px; border-left: 4px solid #ff9800; }
+        .cache-info strong { color: #e65100; }
+        .divider { text-align: center; margin: 25px 0; color: #999; position: relative; }
+        .divider::before, .divider::after {
+            content: ''; position: absolute; top: 50%; width: 40%; height: 1px; background: #ddd;
+        }
+        .divider::before { left: 0; }
+        .divider::after { right: 0; }
+        .radio-status {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; padding: 25px; border-radius: 12px; margin: 20px 0; text-align: center;
+        }
+        .radio-info { font-size: 18px; margin: 10px 0; }
+        .radio-info small { font-size: 13px; opacity: 0.8; }
+        .playlist-input-container { position: relative; margin-bottom: 5px; }
+        .remove-btn {
+            position: absolute; right: 10px; top: 50%; transform: translateY(-50%);
+            background: #f44336; color: white; border: none; border-radius: 50%;
+            width: 28px; height: 28px; cursor: pointer; font-size: 16px; line-height: 28px;
+        }
+        .progress-bar {
+            width: 100%; height: 6px; background: #eee; border-radius: 3px; margin: 10px 0; overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%; background: linear-gradient(90deg, #667eea, #764ba2);
+            border-radius: 3px; transition: width 0.5s;
+        }
+        .checkbox-row { display: flex; align-items: center; gap: 8px; margin: 10px 0; font-size: 14px; }
+        .checkbox-row input[type="checkbox"] { width: auto; margin: 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📻 Radio Supernova</h1>
+        <p class="subtitle">Pure Music · Zero Interruzioni</p>
+
+        <!-- STEP 1: LOGIN -->
+        <div id="step-login" class="step active">
+            <div class="info"><strong>Benvenuta!</strong> La tua radio personale infinita.</div>
+            <button class="btn btn-spotify" onclick="login()">🎵 Accedi con Spotify</button>
+        </div>
+
+        <!-- STEP 2: SCEGLI PLAYLIST -->
+        <div id="step-playlists" class="step">
+            <div id="user-info" class="user-info"></div>
+            <div id="cache-status"></div>
+
+            <!-- PULSANTE SUPERNOVA -->
+            <button class="btn btn-supernova" onclick="loadSupernova()">
+                📻 CARICA CONFIGURAZIONE SUPERNOVA
+            </button>
+
+            <div class="divider">oppure carica manualmente</div>
+
+            <h3>Inserisci i nomi delle playlist (2-20)</h3>
+            <div class="info">Scrivi il nome (anche parziale). Se la cache è presente, non farà chiamate API.</div>
+            <div id="playlist-inputs"></div>
+            <button class="btn btn-secondary btn-small" onclick="addPlaylistInput()">+ Aggiungi</button>
+            <div class="checkbox-row">
+                <input type="checkbox" id="force-refresh">
+                <label for="force-refresh">Forza aggiornamento da Spotify (ignora cache)</label>
+            </div>
+            <button class="btn btn-primary" onclick="findAndLoadPlaylists()">Carica Playlist</button>
+            <div id="load-status"></div>
+        </div>
+
+        <!-- STEP 3: ALGORITMO -->
+        <div id="step-algorithm" class="step">
+            <h3>Playlist Pronte!</h3>
+            <div id="playlist-info" class="status"></div>
+            <div id="jingle-selector" style="margin: 15px 0;"></div>
+            <label><strong>Algoritmo</strong> (opzionale)</label>
+            <div class="info">Es: 1,2,1,3,2 — i numeri indicano da quale playlist pescare. Vuoto = round-robin.</div>
+            <input type="text" id="algorithm" placeholder="Es: 1,2,1,3,2">
+            <button class="btn btn-primary" onclick="startRadio()">🎵 Avvia Radio Infinita!</button>
+            <button class="btn btn-secondary" onclick="showStep(2)">← Indietro</button>
+            <div id="radio-status"></div>
+        </div>
+
+        <!-- STEP 4: IN RIPRODUZIONE -->
+        <div id="step-playing" class="step">
+            <div class="radio-status">
+                <h3>📻 RADIO SUPERNOVA — ON AIR</h3>
+                <div class="radio-info">
+                    🎵 <strong><span id="current-track">Caricamento...</span></strong>
+                    <br><small><span id="current-artist"></span></small>
+                </div>
+                <div class="radio-info">📊 Tracce in coda: <span id="queue-length">-</span></div>
+            </div>
+            <div class="info">La radio continua all'infinito. Puoi chiudere questa pagina — la musica continua nell'app Spotify!</div>
+            <button class="btn btn-danger" onclick="stopRadio()">⏹️ Ferma Radio</button>
+            <button class="btn btn-secondary" onclick="location.reload()">🔄 Nuova Radio</button>
+        </div>
+    </div>
+
+    <script>
+        let playlistCount = 2;
+        let statusInterval = null;
+        let loadedPlaylistNames = [];
+
+        window.addEventListener('load', async () => {
+            if (window.location.hash === '#success') {
+                await loadUserInfo();
+                await loadCacheInfo();
+                showStep(2);
+                initPlaylistInputs();
+            }
+        });
+
+        function showStep(step) {
+            document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+            const steps = ['login', 'playlists', 'algorithm', 'playing'];
+            document.getElementById('step-' + steps[step - 1]).classList.add('active');
+        }
+
+        function login() { window.location.href = '/login'; }
+
+        async function loadUserInfo() {
+            try {
+                const r = await fetch('/api/me');
+                const u = await r.json();
+                document.getElementById('user-info').innerHTML = '<h3>Ciao ' + u.display_name + '!</h3>';
+            } catch (e) {}
+        }
+
+        async function loadCacheInfo() {
+            try {
+                const r = await fetch('/api/cache-info');
+                const info = await r.json();
+                const div = document.getElementById('cache-status');
+                if (info.empty) {
+                    div.innerHTML = '<div class="cache-info">💾 <strong>Nessuna cache.</strong> La prima volta scaricherà le tracce da Spotify e le salverà per le prossime volte.</div>';
+                } else {
+                    const date = new Date(info.lastUpdated).toLocaleString('it-IT');
+                    div.innerHTML = '<div class="cache-info">💾 <strong>Cache presente!</strong> ' +
+                        info.playlistCount + ' playlist, ' + info.totalTracks + ' tracce. ' +
+                        'Ultimo aggiornamento: ' + date + '.' +
+                        ' <button class="btn btn-danger btn-small" onclick="deleteCache()">🗑️ Svuota cache</button></div>';
+                }
+            } catch (e) {}
+        }
+
+        async function deleteCache() {
+            if (!confirm('Sicura? Alla prossima volta dovrà riscaricare tutto da Spotify.')) return;
+            await fetch('/api/cache', { method: 'DELETE' });
+            await loadCacheInfo();
+        }
+
+        // --- SUPERNOVA ---
+
+        async function loadSupernova() {
+            try {
+                const r = await fetch('/api/supernova-config');
+                const config = await r.json();
+
+                const statusDiv = document.getElementById('load-status');
+                statusDiv.innerHTML = '<div class="loading"><div class="spinner"></div><p>Carico ' + config.playlists.length + ' playlist...</p></div>';
+
+                const loadR = await fetch('/api/find-and-load', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ playlistNames: config.playlists, forceRefresh: false })
+                });
+
+                if (!loadR.ok) throw new Error((await loadR.json()).error);
+                const data = await loadR.json();
+
+                loadedPlaylistNames = data.loadedNames || config.playlists;
+                showJingleSelector(loadedPlaylistNames);
+
+                document.getElementById('playlist-info').innerHTML =
+                    '<strong>📻 Configurazione Supernova</strong><br>' + data.message;
+                document.getElementById('algorithm').value = config.algorithm;
+
+                statusDiv.innerHTML = '<div class="status">✅ Configurazione Supernova caricata!</div>';
+                setTimeout(() => showStep(3), 800);
+            } catch (error) {
+                document.getElementById('load-status').innerHTML =
+                    '<div class="status error">❌ ' + error.message + '</div>';
+            }
+        }
+
+        function showJingleSelector(names) {
+            const container = document.getElementById('jingle-selector');
+            let html = '<label><strong>Segna le playlist jingle</strong> (escluse da anti-ripetizione artista):</label>';
+            html += '<div style="margin-top:8px; max-height:200px; overflow-y:auto; padding:10px; background:#f9f9f9; border-radius:8px;">';
+            names.forEach((name, i) => {
+                html += '<div class="checkbox-row">' +
+                    '<input type="checkbox" id="jingle-' + i + '" value="' + i + '">' +
+                    '<label for="jingle-' + i + '"><strong>' + (i+1) + '.</strong> ' + name + '</label></div>';
+            });
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function getJingleIndexes() {
+            const indexes = [];
+            loadedPlaylistNames.forEach((_, i) => {
+                const cb = document.getElementById('jingle-' + i);
+                if (cb && cb.checked) indexes.push(i);
+            });
+            return indexes;
+        }
+
+        // --- PLAYLIST INPUTS ---
+
+        function initPlaylistInputs() {
+            const container = document.getElementById('playlist-inputs');
+            container.innerHTML = '';
+            playlistCount = 2;
+            for (let i = 1; i <= playlistCount; i++) addPlaylistInputHTML(i);
+        }
+
+        function addPlaylistInputHTML(num) {
+            const container = document.getElementById('playlist-inputs');
+            const div = document.createElement('div');
+            div.className = 'playlist-input-container';
+            div.id = 'pcontainer-' + num;
+            div.innerHTML = '<input type="text" class="playlist-name" placeholder="Playlist ' + num + '">' +
+                (num > 2 ? '<button class="remove-btn" onclick="removePlaylistInput(this)">×</button>' : '');
+            container.appendChild(div);
+        }
+
+        function addPlaylistInput() {
+            if (playlistCount >= 20) return alert('Max 20!');
+            playlistCount++;
+            addPlaylistInputHTML(playlistCount);
+        }
+
+        function removePlaylistInput(btn) {
+            if (playlistCount <= 2) return;
+            btn.closest('.playlist-input-container').remove();
+            playlistCount--;
+        }
+
+        async function findAndLoadPlaylists() {
+            const inputs = document.querySelectorAll('.playlist-name');
+            const names = [];
+            inputs.forEach(input => {
+                if (input.value.trim()) names.push(input.value.trim());
+            });
+            if (names.length < 2) return alert('Almeno 2 playlist!');
+
+            const forceRefresh = document.getElementById('force-refresh').checked;
+            const statusDiv = document.getElementById('load-status');
+            statusDiv.innerHTML = '<div class="loading"><div class="spinner"></div><p>Carico ' + names.length + ' playlist...</p></div>';
+
+            try {
+                const r = await fetch('/api/find-and-load', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ playlistNames: names, forceRefresh })
+                });
+                if (!r.ok) throw new Error((await r.json()).error);
+                const data = await r.json();
+                loadedPlaylistNames = data.loadedNames || names;
+                showJingleSelector(loadedPlaylistNames);
+                document.getElementById('playlist-info').innerHTML = '<strong>' + data.message + '</strong>';
+                statusDiv.innerHTML = '<div class="status">✅ Pronto!</div>';
+                setTimeout(() => showStep(3), 800);
+            } catch (error) {
+                statusDiv.innerHTML = '<div class="status error">❌ ' + error.message + '</div>';
+            }
+        }
+
+        // --- RADIO ---
+
+        async function startRadio() {
+            const algo = document.getElementById('algorithm').value.trim();
+            const jingleIndexes = getJingleIndexes();
+            const statusDiv = document.getElementById('radio-status');
+            statusDiv.innerHTML = '<div class="loading"><div class="spinner"></div><p>Avvio radio...</p></div>';
+            try {
+                const r = await fetch('/api/start-radio', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ algorithm: algo || null, jingleIndexes })
+                });
+                const data = await r.json();
+                if (!r.ok) throw new Error(data.error);
+                statusDiv.innerHTML = '<div class="status">✅ ' + data.message + '</div>';
+                setTimeout(() => { showStep(4); startStatusUpdates(); }, 1000);
+            } catch (e) {
+                statusDiv.innerHTML = '<div class="status error">❌ ' + e.message + '. Assicurati che Spotify sia aperto!</div>';
+            }
+        }
+
+        function startStatusUpdates() {
+            updateStatus();
+            statusInterval = setInterval(updateStatus, 8000);
+        }
+
+        async function updateStatus() {
+            try {
+                const r = await fetch('/api/radio-status');
+                const data = await r.json();
+                if (data.active) {
+                    document.getElementById('current-track').textContent = data.currentTrack || 'N/A';
+                    document.getElementById('current-artist').textContent = data.currentArtist || '';
+                    document.getElementById('queue-length').textContent = data.queueLength || '-';
+                }
+            } catch (e) {}
+        }
+
+        async function stopRadio() {
+            if (statusInterval) clearInterval(statusInterval);
+            try {
+                await fetch('/api/stop-radio', { method: 'POST' });
+                alert('Radio fermata!');
+                location.reload();
+            } catch (e) { alert('Errore'); }
+        }
+    </script>
+</body>
+</html>
